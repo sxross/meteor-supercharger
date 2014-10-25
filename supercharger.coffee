@@ -18,15 +18,15 @@ if Meteor.isServer
   Meteor.startup ->
 
     # code to run on server at startup
-    # HTTP.get "http://supercharge.info/service/supercharge/allSites", {}, (error, result) ->
-    #   unless result.statusCode == 200
-    #     console.log "error #{error}"
-    #     return
-    #   else
-    #     Chargers.remove({})
-    #     Chargers.insert {name: 'dog'}
-    #     Chargers.insert {name: 'cat'}
-        # @Chargers.insert result.content
+    HTTP.get "http://supercharge.info/service/supercharge/allSites", {}, (error, result) ->
+      unless result.statusCode == 200
+        console.log "error #{error}"
+        return
+      else
+        # Chargers.remove({})
+        for site in JSON.parse(result.content)
+          console.log site
+
     # Chargers.remove({})
     for site in all_sites
       site_id = site.id
