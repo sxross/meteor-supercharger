@@ -1,0 +1,41 @@
+<template name="charger">
+  <div class="row">
+    <div class="col-sm-6">
+      <strong>{{full_name}}</strong>
+    </div>
+    <div class="col-sm-6">
+      location: {{gps.latitude}}, {{gps.longitude}}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
+      {{address.street}}
+    </div>
+    <div class="col-sm-6">
+      stalls: {{stallCount}}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
+      {{city_state_zip}}
+    </div>
+    <div class="col-sm-6">
+      elevation: {{elevationMeters}} (m)
+    </div>
+  </div>
+  <div class="row separator">
+    <div class="col-sm-6 bottom-pad">
+      {{tesla_count}} charging
+        <button type="button" class="btn btn-primary btn-xs increment" name="teslas">+</button>
+        <button type="button" class="btn btn-primary btn-xs decrement" name="teslas">-</button><br />
+
+      {{line_count}} in line
+        <button type="button" class="btn btn-primary btn-xs increment" name="line_count">+</button>
+        <button type="button" class="btn btn-primary btn-xs decrement" name="line_count">-</button><br />
+
+      {{ice_count}} ICEd stalls
+        <button type="button" class="btn btn-primary btn-xs increment" name="ice_count">+</button>
+        <button type="button" class="btn btn-primary btn-xs decrement" name="ice_count">-</button>
+    </div>
+  </div>
+</template>

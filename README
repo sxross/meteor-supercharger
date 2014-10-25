@@ -1,0 +1,34 @@
+On server do:
+
+    mkdir -p ~/.nodes && cd ~/.nodes
+    curl -O http://nodejs.org/dist/v0.10.31/node-v0.10.31-linux-x64.tar.gz
+    tar -xzf node-v0.10.31-linux-x64.tar.gz
+    rm *.gz
+    mv node-v0.10.31-linux-x64/ 0.10.31
+    ln -s 0.10.31 current
+    export PATH="~/.nodes/current/bin:$PATH"
+
+On development do:
+
+    meteor build supercharger.tar.gz
+
+    scp supercharger.tar.gz deploy@calicowebdev.com:/home/deploy/meteor_apps/supercharger
+
+On server do:
+
+    tar -xvzf supercharger.tar.gz
+    pushd bundle/programs/server/
+    mkdir node_modules
+    cd node_modules/
+    npm install fibers@1.0.1
+    npm install underscore
+    npm install source-map-support
+    npm install semver
+
+    popd
+
+    export MONGO_URL='mongodb://localhost'
+    export ROOT_URL='http://calicowebdev.com'
+    export PORT=3000
+
+    node bundle/main.js
