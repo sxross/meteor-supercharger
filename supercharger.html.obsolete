@@ -1,10 +1,5 @@
-<head>
+<!-- <head>
   <title>supercharger</title>
   <link rel="assets/stylesheets/main.scss", type="text/css">
 </head>
-
-<body>
-  <div class="container">
-  {{> chargers}}
-  </div>
-</body>
+ -->

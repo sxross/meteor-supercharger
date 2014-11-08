@@ -1,30 +1,30 @@
 <template name="charger">
   <div class="row">
-    <div class="col-sm-6">
-      <strong>{{full_name}}</strong>
+    <div class="col-xs-6">
+      <strong>Name: {{full_name}}</strong>
     </div>
-    <div class="col-sm-6">
+    <div class="col-xs-6">
       location: {{gps.latitude}}, {{gps.longitude}}
     </div>
   </div>
   <div class="row">
-    <div class="col-sm-6">
-      {{address.street}}
+    <div class="col-xs-6">
+      Address: {{address.street}}
     </div>
-    <div class="col-sm-6">
+    <div class="col-xs-6">
       stalls: {{stallCount}}
     </div>
   </div>
   <div class="row">
-    <div class="col-sm-6">
+    <div class="col-xs-6">
       {{city_state_zip}}
     </div>
-    <div class="col-sm-6">
+    <div class="col-xs-6">
       elevation: {{elevationMeters}} (m)
     </div>
   </div>
   <div class="row separator">
-    <div class="col-sm-6 bottom-pad">
+    <div class="col-xs-6 bottom-pad">
       {{tesla_count}} charging
         <button type="button" class="btn btn-primary btn-xs increment" name="teslas">+</button>
         <button type="button" class="btn btn-primary btn-xs decrement" name="teslas">-</button><br />

@@ -1,4 +1,9 @@
 <template name="chargers">
+  <div class="row">
+    <div class="col-sm-12">
+      There are {{charger_count}} open superchargers.
+    </div>
+  </div>
   {{#each list}}
     {{> charger}}
   {{/each}}
