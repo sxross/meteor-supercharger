@@ -1,12 +1,15 @@
 Router.configure
   layoutTemplate: "layout"
-  loadingTemplate: "loading"
+  # loadingTemplate: "loading"
   notFoundTemplate: "notFound"
   waitOn: ->
-    Meteor.subscribe "posts"
+    Meteor.subscribe "open-chargers"
 
 Router.route "/",
   name: "chargers"
+
+Router.route "/about",
+  name: "about"
 
 # Router.route "/posts/:_id",
 #   name: "postPage"

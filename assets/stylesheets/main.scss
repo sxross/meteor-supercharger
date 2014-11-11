@@ -15,3 +15,8 @@ body {
 .increment-button {
   line-height: 1.0;
 }
+
+normal-column {
+  @extend .col-xs-5;
+  background-color: '#edd';
+}
