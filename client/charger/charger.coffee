@@ -31,23 +31,6 @@ counter_map = {
   ice_count: 'iceCount'
 }
 
-# Template.charger.events(
-#   "click .up-down": (e) ->
-#     console.log "click up-down #{@_id}"
-#     target = $(e.target)
-#     amount = 1
-#     amount = -1 if target.hasClass('decrement')
-#     property = counter_map[target.attr('name')]
-#     console.log "updating #{property} by #{amount}"
-#     id = @_id
-#     Chargers.update {_id: id}, {$inc: {teslaCount: 1}}, (error) ->
-#       if error
-#         # display the error to the user
-#         alert error.reason
-#
-#     # Chargers.update({_id: @_id}, {$inc: {property: amount}})
-# )
-
 Template.charger.events(
   "click .increment": (e) ->
     console.log "click #{$(e.target).attr('name')} for id #{@_id}"

@@ -4,7 +4,7 @@ body {
 }
 
 .separator {
-  border-bottom: 1px dotted black;
+  // border-bottom: 1px dotted black;
   margin-bottom: .5em;
 }
 
@@ -19,4 +19,10 @@ body {
 normal-column {
   @extend .col-xs-5;
   background-color: '#edd';
+}
+
+tr {
+  .container {
+    margin-top: 10px;
+  }
 }

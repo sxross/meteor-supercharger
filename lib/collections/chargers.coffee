@@ -2,3 +2,4 @@
 
 Chargers.allow
   update: -> true
+

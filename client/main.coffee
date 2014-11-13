@@ -1,11 +1,7 @@
-Meteor.subscribe("open-chargers")
-# counter starts at 0
-# Session.setDefault "counter", 0
-# Template.hello.helpers counter: ->
-#   Session.get "counter"
-#
-# Template.hello.events "click button": ->
-#
-#   # increment the counter when button is clicked
-#   Session.set "counter", Session.get("counter") + 1
+# Meteor.subscribe("open-chargers")
+
+# ITEMS_INCREMENT = 5
+# Session.setDefault "itemsLimit", ITEMS_INCREMENT
+# Deps.autorun ->
+#   Meteor.subscribe "open_chargers", Session.get("itemsLimit")
 #   return

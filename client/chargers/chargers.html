@@ -4,7 +4,20 @@
       There are {{charger_count}} open superchargers.
     </div>
   </div>
+  <table>
   {{#each list}}
-    {{> charger}}
+    <tr>
+      {{> charger}}
+    </tr>
   {{/each}}
+  <tr>
+    <td>
+      {{#if moreResults}}
+          <div id="showMoreResults" style="margin-left: 25px;">
+              <span class="loading">Loading...</span>
+          </div>
+      {{/if}}
+    </td>
+  </tr>
+</table>
 </template>
