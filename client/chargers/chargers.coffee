@@ -15,7 +15,7 @@ Template.chargers.helpers
 
 # More results placeholder for infinite scroll
   moreResults: ->
-    Chargers.find().count() >= Session.get("itemsLimit")
+    return Chargers.find().count() >= Session.get("itemsLimit")
 
 # Infinite scroll
 showMoreVisible = ->

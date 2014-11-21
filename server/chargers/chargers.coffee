@@ -26,7 +26,8 @@ Meteor.methods
   updateChargers: ->
     location = 'remote'
     console.log "testing #{Meteor.absoluteUrl()} and got #{Meteor.absoluteUrl().match(/dev0|:3000/)}"
-    if Meteor.absoluteUrl().match(/dev0|:3000/) isnt null
+    if process.env.METEOR_ENV is 'production'
+    # if Meteor.absoluteUrl().match(/dev0|:3000/) isnt null
       location = 'local'
       Meteor.call('insert_or_update', site, location) for site in all_sites
     else

@@ -25,6 +25,9 @@ Template.charger.helpers
   ice_count: ->
     if @iceCount? then @iceCount else 0
 
+  round_to_2: (num) ->
+    Math.round(num * 100, 2) / 100
+
 counter_map = {
   teslas: 'teslaCount',
   line_count: 'lineCount',

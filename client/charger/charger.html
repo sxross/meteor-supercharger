@@ -1,43 +1,53 @@
 <template name="charger">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-6">
-        <strong>Name: {{full_name}}</strong>
-      </div>
-      <div class="col-xs-6">
-        location: {{gps.latitude}}, {{gps.longitude}}
-      </div>
+  <div class="row">
+    <div class="col-xs-6">
+      <strong>Name: {{full_name}}</strong>
     </div>
-    <div class="row">
-      <div class="col-xs-6">
-        Address: {{address.street}}
-      </div>
-      <div class="col-xs-6">
-        stalls: {{stallCount}}
-      </div>
+    <div class="col-xs-6">
+      location: {{round_to_2 gps.latitude}}, {{round_to_2 gps.longitude}}
     </div>
-    <div class="row">
-      <div class="col-xs-6">
-        {{city_state_zip}}
-      </div>
-      <div class="col-xs-6">
-        elevation: {{elevationMeters}} (m)
-      </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-6">
+      Address: {{address.street}}
     </div>
-    <div class="row separator">
-      <div class="col-xs-6 bottom-pad">
-        {{tesla_count}} charging
-          <button type="button" class="btn btn-primary btn-xs increment up-down" name="teslas"><i class="fa fa-plus-square-o fa-lg" name="teslas"></i></button>
-          <button type="button" class="btn btn-primary btn-xs decrement up-down" name="teslas"><i class="fa fa-minus-square-o fa-lg" name="teslas"></i></button><br />
+    <div class="col-xs-6">
+      stalls: {{stallCount}}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-6">
+      {{city_state_zip}}
+    </div>
+    <div class="col-xs-6">
+      elevation: {{elevationMeters}} (m)
+    </div>
+  </div>
+  <div class="row separator">
+    <div class="col-xs-12 bottom-pad">
+      <div class="spinbox" data-initialize="spinbox" id="mySpinbox">
+        <input type="text" class="form-control input-mini spinbox-input">
+        <div class="spinbox-buttons btn-group btn-group-vertical">
+          <button type="button" class="btn btn-default spinbox-up btn-xs">
+            <span class="glyphicon glyphicon-chevron-up"></span><span class="sr-only">Increase</span>
+          </button>
+          <button type="button" class="btn btn-default spinbox-down btn-xs">
+            <span class="glyphicon glyphicon-chevron-down"></span><span class="sr-only">Decrease</span>
+          </button>
+        </div>
+      </div>
 
-        {{line_count}} in line
-          <button type="button" class="btn btn-primary btn-xs increment up-down" name="line_count"><i class="fa fa-plus-square-o fa-lg" name="line_count"></i></button>
-          <button type="button" class="btn btn-primary btn-xs decrement up-down" name="line_count"><i class="fa fa-minus-square-o fa-lg" name="line_count"></i></button><br />
+      {{tesla_count}} charging
+        <button type="button" class="btn btn-primary btn-xs increment up-down" name="teslas"><i class="fa fa-plus-square-o fa-lg" name="teslas"></i></button>
+        <button type="button" class="btn btn-primary btn-xs decrement up-down" name="teslas"><i class="fa fa-minus-square-o fa-lg" name="teslas"></i></button><br />
 
-        {{ice_count}} ICEd stalls
-          <button type="button" class="btn btn-primary btn-xs increment up-down" name="ice_count"><i class="fa fa-plus-square-o fa-lg" name="ice_count"></i></button>
-          <button type="button" class="btn btn-primary btn-xs decrement up-down" name="ice_count"><i class="fa fa-minus-square-o fa-lg" name="ice_count"></i></button>
-      </div>
+      {{line_count}} in line
+        <button type="button" class="btn btn-primary btn-xs increment up-down" name="line_count"><i class="fa fa-plus-square-o fa-lg" name="line_count"></i></button>
+        <button type="button" class="btn btn-primary btn-xs decrement up-down" name="line_count"><i class="fa fa-minus-square-o fa-lg" name="line_count"></i></button><br />
+
+      {{ice_count}} ICEd stalls
+        <button type="button" class="btn btn-primary btn-xs increment up-down" name="ice_count"><i class="fa fa-plus-square-o fa-lg" name="ice_count"></i></button>
+        <button type="button" class="btn btn-primary btn-xs decrement up-down" name="ice_count"><i class="fa fa-minus-square-o fa-lg" name="ice_count"></i></button>
     </div>
   </div>
 </template>
