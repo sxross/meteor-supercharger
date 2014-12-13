@@ -1,0 +1,45 @@
+template(name="charger")
+  .container.tile
+    .row
+      .col-xs-6
+        strong #{full_name}
+      .col-xs-6
+          a(href="#{lat_lon_query}") {{round_to_2 gps.latitude}}, {{round_to_2 gps.longitude}}
+    .row
+      .col-xs-6 #{address.street}
+      .col-xs-6 {{pluralize stallCount 'stall'}}
+    .row
+      .col-xs-6 #{city_state_zip}
+      .col-xs-6 elevation: #{elevationMeters} (m)
+    .row.separator
+      .col-xs-12
+        .container
+          .row
+            .col-xs-3.inc-dec-buttons
+              button.btn-primary.btn-xs.increment.up-down(name="teslas")
+                i.fa.fa-plus-square-o.fa-lg(name="teslas")
+              button.btn-primary.btn-xs.decrement.up-down(name="teslas")
+                i.fa.fa-minus-square-o.fa-lg(name="teslas")
+            .col-xs-9.counter-items {{pluralize tesla_count 'tesla'}} charging
+          .row
+            .col-xs-3.inc-dec-buttons
+              button.btn-primary.btn-xs.increment.up-down(name="line_count")
+                i.fa.fa-plus-square-o.fa-lg(name="line_count")
+              button.btn-primary.btn-xs.decrement.up-down(name="line_count")
+                i.fa.fa-minus-square-o.fa-lg(name="line_count")
+            .col-xs-9.counter-items {{pluralize line_count 'tesla'}} in line
+          .row
+            .col-xs-3.inc-dec-buttons
+              button.btn-primary.btn-xs.increment.up-down(name="ice_count")
+                i.fa.fa-plus-square-o.fa-lg(name="ice_count")
+              button.btn-primary.btn-xs.decrement.up-down(name="ice_count")
+                i.fa.fa-minus-square-o.fa-lg(name="ice_count")
+            .col-xs-9.counter-items {{pluralize ice_count 'stall'}} ICEd
+          .row
+            .col-xs-3.inc-dec-buttons
+              button.btn-primary.btn-xs.increment.up-down(name="offline_count")
+                i.fa.fa-plus-square-o.fa-lg(name="offline_count")
+              button.btn-primary.btn-xs.decrement.up-down(name="offline_count")
+                i.fa.fa-minus-square-o.fa-lg(name="offline_count")
+            .col-xs-9.counter-items {{pluralize offline_count 'stall'}} offline
+        

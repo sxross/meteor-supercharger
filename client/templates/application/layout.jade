@@ -1,0 +1,38 @@
+template(name="layout")
+  head
+    title Tesla Superchargers
+    link(rel="assets/stylesheets/main.scss" type="text/css")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+  body
+    .navbar.navbar-default.navbar-fixed-top(role="navigation")
+      .navbar-header
+        a.navbar-brand(href='/') 
+          i.fa.fa-home.fa-lg
+        button.navbar-toggle.collapsed(type="button" data-toggle="collapse" data-target=".navbar-collapse")
+          span.sr-only Toggle navigation
+          span.icon-bar
+          span.icon-bar
+          span.icon-bar
+      .navbar-collapse.collapse
+        ul.nav.navbar-nav
+          li.static
+            +updates
+          li.inactive
+            a(href="{{pathFor 'about'}}") About
+          +search
+        ul.nav.navbar-nav.navbar-right
+          +loginButtons
+          li &nbsp;
+          
+    .container
+      +yield
+      
+template(name="updates")
+  |updated:
+  |&nbsp;#{updated_at} by #{updated_by}
+
+template(name="search")
+  li#search
+    input(type="search")
+    i.static.fa.fa-search.fa-lg
+        

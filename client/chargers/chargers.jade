@@ -1,0 +1,10 @@
+template(name="chargers")
+  .row
+    .col-xs-12
+      There are #{charger_count} open superchargers.
+  each list
+    .row
+      +charger
+  +if moreResults
+    .row#showMoreResults(style="margin-left: 25px;")
+      span.loading Loading...
