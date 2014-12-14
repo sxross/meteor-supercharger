@@ -8,56 +8,57 @@
       </div>
     </div>
   </div>
-  
-  <div class="row">
-    <div class="col-xs-12">
-      This version of the Tesla Superchargers Web app is completely free. The
-      only thing we ask of you is that you use it. Your using it relays important
-      information to your fellow Tesla owners and they can better plan their
-      stops at Superchargers.
-    </div>
-  </div>
 
-  <h1>Why do I need to log in?</h1>
-    
-  <div class="row">
-    <div class="col-xs-12">
-      Only because it's preferable not to have bots partying on
-      this kind of app. We don't know who you are. We don't track where you've been.
-      Nothing private is required other than your email, which we don't associate with
-      your locations. Privacy is important to us, so we ask as little as possible.
-    </div>
-  </div>
-	
-  <h1>I want to do this with my phone.</h1>
-  <div class="row">
-    <div class="col-xs-12">
-      You should. It's a natural and it's in the works. In the meantime, we ask
-      that you poke along with the browser app in your Model S. The iPhone version
-      will be ready first and will have really cool features:
-    </div>
-  </div>
-  <div class="row">
-  <normal-column>
-      <ul>
-        <li>Filterable list of chargers.</li>
-        <li>Chargers color coded according to how fully-occupied they are.</li>
-        <li>Location-aware -- knows the elevation differential between your current
-          location and the charger's location; knows the distance (as the crow flies)
-          between where you are now and where the charger is.</li>
-        <li>Country-configurable -- you can display chargers in the country where
-          you plan to travel only. After all, why display all the US chargers if
-          you are driving the Autobahn?</li>
-        <li>Routing-friendly -- if you want your phone to grab a route to the charger,
-          it will. Even if you never follow the phone's route, you may want the actual
-          routed distance, the directions, and a visual of the map. Not that you can't
-          get it on the 17" display, but if you're waiting for your check in the restaurant
-          and want to get the plan for your next leg, you're more likely to have your phone
-          than your car handy.
-        </li>
-        <li>Unit-friendly -- not confined to the Imperial units so popular in North America,
-          the phone app speaks metric!</li>
-      </ul>
-    </normal-column>
-  </div>
+  {{#markdown}}
+  This version of the Tesla Superchargers Web app is completely free. The
+  only thing we ask of you is that you use it. Your using it relays important
+  information to your fellow Tesla owners and they can better plan their
+
+  ## What Do You Do?
+
+  When you get to a Supercharger, count the cars, compare them to what's up
+  in the App and adjust it accordingly. Thus, your fellow drivers up the
+  road will know what to expect.
+
+  ## What Does the App Do (partial feature list)?
+
+  It lets you take a pre-populated list of Superchargers, and choose the
+  one you want. You can then view a couple of unique statistics about the
+  charger. Basically, how many cars are there as of the last time some
+  honest user of this app visited.
+
+  In no particular order, here is the current feature list:
+
+  * List of Tesla Superchargers, in order of country, complete
+  with location, elevation and count of charging stall occupancy.
+  * "Infinite" scroll. To keep from making your browser work like
+  a 1990s version of Internet Explorer, only 5 results are downloaded
+  at a time. This is in deference to the 3G connection of the Tesla.
+  As you scroll, more results are loaded in. Resist the urge to scroll
+  from top to bottom. There are a ton of Superchargers (thanks, Tesla)
+  and you'll be there forever.
+  * "Live" search. There is a search bar and if you type a few letters
+  of the name of the Supercharger, you should find it just fine.
+  * Link to Google Maps. If you click on the coordinates (in blue
+  near the top of each tile), you will be taken to Google Maps and a
+  location pin will mark the charger. You can get driving directions
+  from there.
+
+  ## FAQ
+
+  ### Why do I need to log in?
+
+  Only because it's preferable not to have bots partying on
+  this kind of app. We don't know who you are. We don't track where you've been.
+  Nothing private is required other than your email, which we don't associate with
+  your locations. Privacy is important to us, so we ask as little as possible.
+
+  What that means is that if you don't sign up, you can look, but you can't
+  play. I.e., you can view, but can't change the counts of various aspects
+  of the Superchargers
+
+  ### Feature List
+
+
+  {{/markdown}}
 </template>

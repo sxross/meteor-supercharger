@@ -20,13 +20,16 @@ Template.chargers.helpers
 # More results placeholder for infinite scroll
   moreResults: ->
     search_query = Session.get('search_query')
-    return Chargers.find({name: new RegExp(".*#{search_query}.*", "i")}).count() >= Session.get("itemsLimit")
+    if search_query
+      return Chargers.find({name: new RegExp(".*#{search_query}.*", "i")}).count() >= Session.get("itemsLimit")
+    else
+      return Chargers.find({}).count() >= Session.get("itemsLimit")
 
 # Infinite scroll
 showMoreVisible = ->
   threshold = undefined
   target = $("#showMoreResults")
-  return  unless target.length
+  return unless target.length
   threshold = $(window).scrollTop() + $(window).height() - target.height()
   if target.offset().top < threshold
     unless target.data("visible")
