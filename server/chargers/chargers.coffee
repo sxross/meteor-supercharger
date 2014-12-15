@@ -3,9 +3,8 @@
   r.push("#{key} = #{value}") for own key, value of o
   r.join("\n")
 
-is_production = ->
-  console.log "root url: #{process.env.ROOT_URL}"
-  process.env.ROOT_URL.match(/meteor\.com/i)
+@is_production = ->
+  return process.env.ROOT_URL.match(/meteor\.com/i) isnt null
 
 Meteor.methods
   insert_or_update: (site, origin = 'remote') ->

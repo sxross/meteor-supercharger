@@ -7008,7 +7008,7 @@ var packageMetadata = {
                 },
                 "version": {
                   "type": "constant",
-                  "value": "b40cbb715a2d5e47d762b722079742ca64c6d6fc"
+                  "value": "5a42ed3e4abb3751c0d1000e310cdfc464c9a1cb"
                 },
                 "PUBLIC_SETTINGS": {
                   "type": "undefined"
@@ -7243,7 +7243,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/underscore.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/underscore.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7260,7 +7260,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
                 }
               }
             },
@@ -7269,7 +7269,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/meteor.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/meteor.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7286,7 +7286,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
                 }
               }
             },
@@ -7295,7 +7295,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/json.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/json.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7312,7 +7312,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/json.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/json.js.map"
                 }
               }
             },
@@ -7321,7 +7321,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/base64.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/base64.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7338,7 +7338,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/base64.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/base64.js.map"
                 }
               }
             },
@@ -7347,7 +7347,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/ejson.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/ejson.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7364,7 +7364,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
                 }
               }
             },
@@ -7373,7 +7373,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/logging.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/logging.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7390,7 +7390,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/logging.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/logging.js.map"
                 }
               }
             },
@@ -7399,7 +7399,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/reload.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/reload.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7416,7 +7416,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/reload.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/reload.js.map"
                 }
               }
             },
@@ -7425,7 +7425,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/tracker.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/tracker.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7442,7 +7442,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
                 }
               }
             },
@@ -7451,7 +7451,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/random.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/random.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7468,7 +7468,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/random.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/random.js.map"
                 }
               }
             },
@@ -7477,7 +7477,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/retry.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/retry.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7494,7 +7494,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/retry.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/retry.js.map"
                 }
               }
             },
@@ -7503,7 +7503,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/check.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/check.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7520,7 +7520,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/check.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/check.js.map"
                 }
               }
             },
@@ -7529,7 +7529,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/id-map.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/id-map.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7546,7 +7546,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
                 }
               }
             },
@@ -7555,7 +7555,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7572,7 +7572,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
                 }
               }
             },
@@ -7581,7 +7581,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7598,7 +7598,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
                 }
               }
             },
@@ -7607,7 +7607,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/minimongo.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/minimongo.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7624,7 +7624,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
                 }
               }
             },
@@ -7633,7 +7633,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/ddp.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/ddp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7650,7 +7650,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
                 }
               }
             },
@@ -7659,7 +7659,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7676,7 +7676,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
                 }
               }
             },
@@ -7685,7 +7685,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7702,7 +7702,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
                 }
               }
             },
@@ -7711,7 +7711,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mongo.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mongo.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7728,7 +7728,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
                 }
               }
             },
@@ -7737,7 +7737,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7754,7 +7754,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
                 }
               }
             },
@@ -7763,7 +7763,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7780,7 +7780,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
                 }
               }
             },
@@ -7789,7 +7789,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/coffeescript.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/coffeescript.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7806,7 +7806,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/coffeescript.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/coffeescript.js.map"
                 }
               }
             },
@@ -7815,7 +7815,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/url.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/url.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7832,7 +7832,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/url.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/url.js.map"
                 }
               }
             },
@@ -7841,7 +7841,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/http.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/http.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7858,59 +7858,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/http.js.map"
-                }
-              }
-            },
-            "/packages/jquery.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/jquery.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/265926494aaa3929cd2e30da265211c5929f37a4.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/265926494aaa3929cd2e30da265211c5929f37a4.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
-                }
-              }
-            },
-            "/packages/mizzao_bootstrap-3.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/22b8c020a13542fe69c5ffae82f6b6ab7944b181.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/22b8c020a13542fe69c5ffae82f6b6ab7944b181.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/http.js.map"
                 }
               }
             },
@@ -7919,7 +7867,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/particle4dev_sass.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/particle4dev_sass.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7936,33 +7884,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/particle4dev_sass.js.map"
-                }
-              }
-            },
-            "/packages/mrt_font-awesome-sass.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mrt_font-awesome-sass.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/b471d0a44e935663b73a0d34ef8419b49334f8bc.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/b471d0a44e935663b73a0d34ef8419b49334f8bc.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mrt_font-awesome-sass.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/particle4dev_sass.js.map"
                 }
               }
             },
@@ -7971,7 +7893,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/percolatestudio_synced-cron.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/percolatestudio_synced-cron.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7988,59 +7910,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/percolatestudio_synced-cron.js.map"
-                }
-              }
-            },
-            "/packages/sanjo_jasmine.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/12c4a1ab0116b6cd1764ac1c05a7a430ec4e7b73.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/12c4a1ab0116b6cd1764ac1c05a7a430ec4e7b73.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
-                }
-              }
-            },
-            "/packages/velocity_core.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/percolatestudio_synced-cron.js.map"
                 }
               }
             },
@@ -8049,7 +7919,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/deps.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/deps.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8066,7 +7936,33 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/deps.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/deps.js.map"
+                }
+              }
+            },
+            "/packages/jquery.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/jquery.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/265926494aaa3929cd2e30da265211c5929f37a4.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/265926494aaa3929cd2e30da265211c5929f37a4.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
                 }
               }
             },
@@ -8075,7 +7971,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/htmljs.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/htmljs.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8092,7 +7988,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
                 }
               }
             },
@@ -8101,7 +7997,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8118,7 +8014,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
                 }
               }
             },
@@ -8127,7 +8023,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8144,7 +8040,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
                 }
               }
             },
@@ -8153,7 +8049,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/blaze.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/blaze.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8170,111 +8066,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
-                }
-              }
-            },
-            "/packages/templating.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/templating.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/599ba307216da826d8b335332ebcc9a497a369a0.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/599ba307216da826d8b335332ebcc9a497a369a0.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/templating.js.map"
-                }
-              }
-            },
-            "/packages/amplify.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/amplify.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
-                }
-              }
-            },
-            "/packages/less.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/less.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/less.js.map"
-                }
-              }
-            },
-            "/packages/velocity_html-reporter.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/8f5f07408181c410b8a9a73386eec5ab76a7c91f.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/8f5f07408181c410b8a9a73386eec5ab76a7c91f.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
                 }
               }
             },
@@ -8283,7 +8075,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/ui.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/ui.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8300,7 +8092,33 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/ui.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/ui.js.map"
+                }
+              }
+            },
+            "/packages/templating.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/templating.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/599ba307216da826d8b335332ebcc9a497a369a0.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/599ba307216da826d8b335332ebcc9a497a369a0.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/templating.js.map"
                 }
               }
             },
@@ -8309,7 +8127,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_core.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_core.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8326,7 +8144,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_core.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_core.js.map"
                 }
               }
             },
@@ -8335,7 +8153,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8352,7 +8170,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js.map"
                 }
               }
             },
@@ -8361,7 +8179,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_layout.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_layout.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8378,7 +8196,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_layout.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_layout.js.map"
                 }
               }
             },
@@ -8387,11 +8205,11 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_url.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_url.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/3a21b7348e189346a5f73bbe6220cc5257b9846e.map"
+                  "value": "/packages/64909615eb5ca24e4cc2475690b248156bdaaa2d.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8399,12 +8217,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/3a21b7348e189346a5f73bbe6220cc5257b9846e.map": {
+            "/packages/64909615eb5ca24e4cc2475690b248156bdaaa2d.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_url.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_url.js.map"
                 }
               }
             },
@@ -8413,11 +8231,11 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/87fc6153735b0c669013d562b796bbd57c993d79.map"
+                  "value": "/packages/a5498c20e8d95674957e3fc042838aa7a5d585b6.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8425,12 +8243,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/87fc6153735b0c669013d562b796bbd57c993d79.map": {
+            "/packages/a5498c20e8d95674957e3fc042838aa7a5d585b6.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js.map"
                 }
               }
             },
@@ -8439,11 +8257,11 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_location.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_location.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/6adea3d9be8c08f0d48e261a4a3d53c77d0d7315.map"
+                  "value": "/packages/0434907da386df80b0a769a8c4decc5374a3fdb6.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8451,12 +8269,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/6adea3d9be8c08f0d48e261a4a3d53c77d0d7315.map": {
+            "/packages/0434907da386df80b0a769a8c4decc5374a3fdb6.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_location.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_location.js.map"
                 }
               }
             },
@@ -8465,7 +8283,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8482,7 +8300,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
                 }
               }
             },
@@ -8491,7 +8309,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_controller.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_controller.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8508,7 +8326,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_controller.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_controller.js.map"
                 }
               }
             },
@@ -8517,11 +8335,11 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_router.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_router.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/3fb4caf61f2b332b14dabb884ba512baa2663af2.map"
+                  "value": "/packages/1e7cf520f347cfd6afb14db6b156adc7704ffc5e.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8529,12 +8347,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/3fb4caf61f2b332b14dabb884ba512baa2663af2.map": {
+            "/packages/1e7cf520f347cfd6afb14db6b156adc7704ffc5e.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/iron_router.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/iron_router.js.map"
                 }
               }
             },
@@ -8543,7 +8361,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/sacha_spin.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/sacha_spin.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8560,85 +8378,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/sacha_spin.js.map"
-                }
-              }
-            },
-            "/packages/aldeed_simple-schema.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/aldeed_simple-schema.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/6b088ed5394a2f8f07e9602d918d515b3acad5e6.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/6b088ed5394a2f8f07e9602d918d515b3acad5e6.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/aldeed_simple-schema.js.map"
-                }
-              }
-            },
-            "/packages/mongo-livedata.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mongo-livedata.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/e6ebca489f38b73788b494509a4f83d87fdbf6c0.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/e6ebca489f38b73788b494509a4f83d87fdbf6c0.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mongo-livedata.js.map"
-                }
-              }
-            },
-            "/packages/aldeed_collection2.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/aldeed_collection2.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/525ba7d2b38809f4b3de1e552fabb647d8fc56ae.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/525ba7d2b38809f4b3de1e552fabb647d8fc56ae.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/aldeed_collection2.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/sacha_spin.js.map"
                 }
               }
             },
@@ -8647,7 +8387,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/session.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/session.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8664,7 +8404,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/session.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/session.js.map"
                 }
               }
             },
@@ -8673,7 +8413,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/handlebars.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/handlebars.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8690,7 +8430,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/handlebars.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/handlebars.js.map"
                 }
               }
             },
@@ -8699,7 +8439,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/stylus.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/stylus.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8716,7 +8456,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/stylus.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/stylus.js.map"
                 }
               }
             },
@@ -8725,7 +8465,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/localstorage.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/localstorage.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8742,7 +8482,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
                 }
               }
             },
@@ -8751,7 +8491,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8768,7 +8508,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
                 }
               }
             },
@@ -8777,7 +8517,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/anti_i18n.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/anti_i18n.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8794,7 +8534,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/anti_i18n.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/anti_i18n.js.map"
                 }
               }
             },
@@ -8803,11 +8543,11 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/b50e629f5d35cab4970a2385db66b46176db4dd4.map"
+                  "value": "/packages/cac3dbb7e69b094502fb039abd0b41a9b588392d.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8815,12 +8555,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/b50e629f5d35cab4970a2385db66b46176db4dd4.map": {
+            "/packages/cac3dbb7e69b094502fb039abd0b41a9b588392d.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js.map"
                 }
               }
             },
@@ -8829,7 +8569,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/sha.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/sha.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8846,7 +8586,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/sha.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/sha.js.map"
                 }
               }
             },
@@ -8855,7 +8595,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/srp.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/srp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8872,7 +8612,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/srp.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/srp.js.map"
                 }
               }
             },
@@ -8881,7 +8621,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/accounts-password.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/accounts-password.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8898,7 +8638,371 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/accounts-password.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/accounts-password.js.map"
+                }
+              }
+            },
+            "/packages/natestrauser_font-awesome.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/natestrauser_font-awesome.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/52a6c4b3336f875d7c0188d870cc04a652019614.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/52a6c4b3336f875d7c0188d870cc04a652019614.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/natestrauser_font-awesome.js.map"
+                }
+              }
+            },
+            "/packages/mrt_momentjs.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mrt_momentjs.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/6ccf49aa6d89ef76b727c0e240bcd00602be2b8d.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/6ccf49aa6d89ef76b727c0e240bcd00602be2b8d.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mrt_momentjs.js.map"
+                }
+              }
+            },
+            "/packages/mquandalle_jade.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mquandalle_jade.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/4ef76f2755f391c688ce8f0925fe8c8eee38b45b.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/4ef76f2755f391c688ce8f0925fe8c8eee38b45b.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mquandalle_jade.js.map"
+                }
+              }
+            },
+            "/packages/joshowens_inflectionizer.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/joshowens_inflectionizer.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/8a96e4c8d668eabf6245eec9eb8f1d7d0ba6593b.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/8a96e4c8d668eabf6245eec9eb8f1d7d0ba6593b.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/joshowens_inflectionizer.js.map"
+                }
+              }
+            },
+            "/packages/mizzao_bootstrap-3.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/8d8f544e1328b7a62d76dbbbbf7d1fd5f559c919.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/8d8f544e1328b7a62d76dbbbbf7d1fd5f559c919.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3.js.map"
+                }
+              }
+            },
+            "/packages/chuangbo_marked.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/chuangbo_marked.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/e581a50a8d5be2080cf932804ae196aba7b1f0ac.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/e581a50a8d5be2080cf932804ae196aba7b1f0ac.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/chuangbo_marked.js.map"
+                }
+              }
+            },
+            "/packages/practicalmeteor_chai.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/7fbbbec9a13f4adf082b394c5ddd7230d84afc48.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/7fbbbec9a13f4adf082b394c5ddd7230d84afc48.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js.map"
+                }
+              }
+            },
+            "/packages/practicalmeteor_loglevel.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/9185331dfa11fd235edfbef93838d4ca3244d638.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/9185331dfa11fd235edfbef93838d4ca3244d638.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js.map"
+                }
+              }
+            },
+            "/packages/velocity_core.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/82241038c303e73253980ddbae67ac50a3e9f6ad.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/82241038c303e73253980ddbae67ac50a3e9f6ad.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
+                }
+              }
+            },
+            "/packages/velocity_shim.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_shim.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/14363d085a412115605c41536e4f2867425b89d5.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/14363d085a412115605c41536e4f2867425b89d5.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_shim.js.map"
+                }
+              }
+            },
+            "/packages/sanjo_jasmine.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/04ba42a040aed861ffffa46e10517174e66b3a8b.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/04ba42a040aed861ffffa46e10517174e66b3a8b.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
+                }
+              }
+            },
+            "/packages/amplify.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/amplify.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
+                }
+              }
+            },
+            "/packages/less.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/less.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/less.js.map"
+                }
+              }
+            },
+            "/packages/velocity_html-reporter.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/ce964321f60af6148e18fddaa0ce1ee81926dfec.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/ce964321f60af6148e18fddaa0ce1ee81926dfec.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
                 }
               }
             },
@@ -8907,7 +9011,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/webapp.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/webapp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8924,7 +9028,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
                 }
               }
             },
@@ -8933,7 +9037,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/livedata.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/livedata.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8950,7 +9054,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
                 }
               }
             },
@@ -8959,7 +9063,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/spacebars.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/spacebars.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8976,7 +9080,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
                 }
               }
             },
@@ -8985,7 +9089,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9002,7 +9106,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
                 }
               }
             },
@@ -9011,7 +9115,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/global-imports.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/global-imports.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9022,12 +9126,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/client/templates/application/template.layout.js": {
+            "/client/templates/application/layout.jade.js": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/client/templates/application/template.layout.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/templates/application/layout.jade.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9038,12 +9142,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/client/charger/template.charger.js": {
+            "/client/templates/includes/loading.jade.js": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/client/charger/template.charger.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/templates/includes/loading.jade.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9054,12 +9158,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/client/chargers/template.chargers.js": {
+            "/client/templates/includes/notfound.jade.js": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/client/chargers/template.chargers.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/templates/includes/notfound.jade.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9070,16 +9174,15 @@ var packageMetadata = {
                 }
               }
             },
-            "/lib/collections/charger_schema.coffee.js": {
+            "/client/about/template.about.js": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/lib/collections/charger_schema.coffee.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/about/template.about.js"
                 },
                 "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/lib/collections/7ca6505f70813a8b5730a2b67e2aafdebc08af89.map"
+                  "type": "undefined"
                 },
                 "type": {
                   "type": "constant",
@@ -9087,12 +9190,165 @@ var packageMetadata = {
                 }
               }
             },
-            "/lib/collections/7ca6505f70813a8b5730a2b67e2aafdebc08af89.map": {
+            "/client/charger/charger.jade.js": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/lib/collections/charger_schema.coffee.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/charger/charger.jade.js"
+                },
+                "sourceMapUrl": {
+                  "type": "undefined"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/client/chargers/chargers.jade.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/chargers/chargers.jade.js"
+                },
+                "sourceMapUrl": {
+                  "type": "undefined"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/lib/collections/chargers.coffee.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/collections/chargers.coffee.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/lib/collections/73d3419d976fb6048f4eb619e53363f9b9ffad5a.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/lib/collections/73d3419d976fb6048f4eb619e53363f9b9ffad5a.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/collections/chargers.coffee.js.map"
+                }
+              }
+            },
+            "/lib/collections/updates.coffee.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/collections/updates.coffee.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/lib/collections/6038cfb1f4f842516f21f9ed083a6de67909c93e.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/lib/collections/6038cfb1f4f842516f21f9ed083a6de67909c93e.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/collections/updates.coffee.js.map"
+                }
+              }
+            },
+            "/lib/models/charger.coffee.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/models/charger.coffee.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/lib/models/a1800af19fc7e91176b383892c76b79ab7271e91.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/lib/models/a1800af19fc7e91176b383892c76b79ab7271e91.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/models/charger.coffee.js.map"
+                }
+              }
+            },
+            "/lib/accounts.coffee.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/accounts.coffee.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/lib/15b13b5dc3df86806fac48d2ab3c82e7deb2a06e.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/lib/15b13b5dc3df86806fac48d2ab3c82e7deb2a06e.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/accounts.coffee.js.map"
+                }
+              }
+            },
+            "/lib/helpers.coffee.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/helpers.coffee.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/lib/aeffaeca3b817b9c4b61a49710234232eaa7359a.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/lib/aeffaeca3b817b9c4b61a49710234232eaa7359a.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/helpers.coffee.js.map"
                 }
               }
             },
@@ -9101,11 +9357,11 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/lib/router.coffee.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/router.coffee.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/lib/76239005415b79a9bf3d996aaf56bd31725d2006.map"
+                  "value": "/lib/c02149bcf70c1ab9627d88544f3ff1b33ede468f.map"
                 },
                 "type": {
                   "type": "constant",
@@ -9113,12 +9369,90 @@ var packageMetadata = {
                 }
               }
             },
-            "/lib/76239005415b79a9bf3d996aaf56bd31725d2006.map": {
+            "/lib/c02149bcf70c1ab9627d88544f3ff1b33ede468f.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/lib/router.coffee.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/router.coffee.js.map"
+                }
+              }
+            },
+            "/lib/version.coffee.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/version.coffee.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/lib/d2b61d575b14aa29cd7b949718e69814ed8a39f7.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/lib/d2b61d575b14aa29cd7b949718e69814ed8a39f7.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/lib/version.coffee.js.map"
+                }
+              }
+            },
+            "/client/templates/application/footer.coffee.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/templates/application/footer.coffee.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/client/templates/application/a1800af19fc7e91176b383892c76b79ab7271e91.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/client/templates/application/a1800af19fc7e91176b383892c76b79ab7271e91.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/templates/application/footer.coffee.js.map"
+                }
+              }
+            },
+            "/client/templates/application/search.coffee.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/templates/application/search.coffee.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/client/templates/application/7ce0c4cc625a1f8ebfc9b21ced968e146d398522.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/client/templates/application/7ce0c4cc625a1f8ebfc9b21ced968e146d398522.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/templates/application/search.coffee.js.map"
                 }
               }
             },
@@ -9127,11 +9461,11 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/client/charger/charger.coffee.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/charger/charger.coffee.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/client/charger/89145dc7b3423fbf879d0bea60342e9022f69510.map"
+                  "value": "/client/charger/f66de6ed3c74c33b6ba44411c5b0b2309aa15020.map"
                 },
                 "type": {
                   "type": "constant",
@@ -9139,12 +9473,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/client/charger/89145dc7b3423fbf879d0bea60342e9022f69510.map": {
+            "/client/charger/f66de6ed3c74c33b6ba44411c5b0b2309aa15020.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/client/charger/charger.coffee.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/charger/charger.coffee.js.map"
                 }
               }
             },
@@ -9153,11 +9487,11 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/client/chargers/chargers.coffee.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/chargers/chargers.coffee.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/client/chargers/d0170d8b4aef158c6203abecb9f907d9c475f103.map"
+                  "value": "/client/chargers/d753ccb3759b359ac7caf5e23e8f768c2ec2c308.map"
                 },
                 "type": {
                   "type": "constant",
@@ -9165,12 +9499,64 @@ var packageMetadata = {
                 }
               }
             },
-            "/client/chargers/d0170d8b4aef158c6203abecb9f907d9c475f103.map": {
+            "/client/chargers/d753ccb3759b359ac7caf5e23e8f768c2ec2c308.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/client/chargers/chargers.coffee.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/chargers/chargers.coffee.js.map"
+                }
+              }
+            },
+            "/client/accounts_ui.coffee.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/accounts_ui.coffee.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/client/75742c2307c8c317da87501be279401f5f47e36a.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/client/75742c2307c8c317da87501be279401f5f47e36a.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/accounts_ui.coffee.js.map"
+                }
+              }
+            },
+            "/client/updates.coffee.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/updates.coffee.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/client/cd67fa089f0dc097dfb354020b54fe28d5ba13b3.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/client/cd67fa089f0dc097dfb354020b54fe28d5ba13b3.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/updates.coffee.js.map"
                 }
               }
             },
@@ -9179,7 +9565,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/allsites.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/allsites.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9195,11 +9581,11 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/client/main.coffee.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/main.coffee.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/client/be2b16e6a17f756f2361a5754e41271cad7601fe.map"
+                  "value": "/client/a1800af19fc7e91176b383892c76b79ab7271e91.map"
                 },
                 "type": {
                   "type": "constant",
@@ -9207,12 +9593,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/client/be2b16e6a17f756f2361a5754e41271cad7601fe.map": {
+            "/client/a1800af19fc7e91176b383892c76b79ab7271e91.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/app/client/main.coffee.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/app/client/main.coffee.js.map"
                 }
               }
             },
@@ -9221,7 +9607,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9238,20 +9624,72 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
                 }
               }
             },
-            "/9669dbaac473eb5ea6c5cc209ba5ae8b53100b98.css": {
+            "/packages/velocity_test-proxy.js": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/9669dbaac473eb5ea6c5cc209ba5ae8b53100b98.css"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/9669dbaac473eb5ea6c5cc209ba5ae8b53100b98.map"
+                  "value": "/packages/4b041a7016775526ee866c25d5fb1d1039ef28c1.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/4b041a7016775526ee866c25d5fb1d1039ef28c1.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js.map"
+                }
+              }
+            },
+            "/packages/velocity_node-soft-mirror.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/packages/cfbadc9d9aff21e824a2b9cf98841d5961cd08d2.map"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/packages/cfbadc9d9aff21e824a2b9cf98841d5961cd08d2.map": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js.map"
+                }
+              }
+            },
+            "/41b9a9d7c02f8db0015ea1fbe86cc40eb5b780e8.css": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/41b9a9d7c02f8db0015ea1fbe86cc40eb5b780e8.css"
+                },
+                "sourceMapUrl": {
+                  "type": "constant",
+                  "value": "/41b9a9d7c02f8db0015ea1fbe86cc40eb5b780e8.map"
                 },
                 "type": {
                   "type": "constant",
@@ -9259,12 +9697,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/9669dbaac473eb5ea6c5cc209ba5ae8b53100b98.map": {
+            "/41b9a9d7c02f8db0015ea1fbe86cc40eb5b780e8.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/9669dbaac473eb5ea6c5cc209ba5ae8b53100b98.css.map"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/41b9a9d7c02f8db0015ea1fbe86cc40eb5b780e8.css.map"
                 }
               }
             },
@@ -9273,7 +9711,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9289,7 +9727,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9305,7 +9743,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9321,7 +9759,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9337,7 +9775,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9353,7 +9791,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9369,7 +9807,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/sxross/meteor/supercharger/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
+                  "value": "/Users/sxross/meteor/test-supercharger/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9385,7 +9823,7 @@ var packageMetadata = {
               "members": {
                 "content": {
                   "type": "constant",
-                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?61916b1060b33931a21f104fbffb67c2f3d493c5\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/61916b1060b33931a21f104fbffb67c2f3d493c5.map\",\"size\":108989,\"hash\":\"61916b1060b33931a21f104fbffb67c2f3d493c5\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map\",\"size\":81471,\"hash\":\"71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map\",\"size\":25926,\"hash\":\"da8974b7231dd8c0caccb5f322dcf97329d486d1\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?192a05cc46b867dadbe8bf90dd961f6f8fd1574f\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/192a05cc46b867dadbe8bf90dd961f6f8fd1574f.map\",\"size\":66854,\"hash\":\"192a05cc46b867dadbe8bf90dd961f6f8fd1574f\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?803a2be518a0c6c3949e45cf65c4ad627a3d603a\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/803a2be518a0c6c3949e45cf65c4ad627a3d603a.map\",\"size\":35207,\"hash\":\"803a2be518a0c6c3949e45cf65c4ad627a3d603a\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?9adf0102ce60b3df01914155826e1661f636e91d\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/9adf0102ce60b3df01914155826e1661f636e91d.map\",\"size\":455764,\"hash\":\"9adf0102ce60b3df01914155826e1661f636e91d\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2.map\",\"size\":616556,\"hash\":\"1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?9bc2c5a8b2796fab86b51660ca643e5a49a30c84\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/9bc2c5a8b2796fab86b51660ca643e5a49a30c84.map\",\"size\":146178,\"hash\":\"9bc2c5a8b2796fab86b51660ca643e5a49a30c84\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?c823646e93561d86e6bcb3cbd2457a8540e519c1\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/c823646e93561d86e6bcb3cbd2457a8540e519c1.map\",\"size\":17152,\"hash\":\"c823646e93561d86e6bcb3cbd2457a8540e519c1\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/coffeescript.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/coffeescript.js?969f68786bbc68e6cad299e74922a53af3d1404b\",\"sourceMap\":\"packages/coffeescript.js.map\",\"sourceMapUrl\":\"/packages/969f68786bbc68e6cad299e74922a53af3d1404b.map\",\"size\":1294,\"hash\":\"969f68786bbc68e6cad299e74922a53af3d1404b\"},{\"path\":\"packages/url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/url.js?2312d739008b2ffa52f13c77c5d6fc59c9e17d56\",\"sourceMap\":\"packages/url.js.map\",\"sourceMapUrl\":\"/packages/2312d739008b2ffa52f13c77c5d6fc59c9e17d56.map\",\"size\":6642,\"hash\":\"2312d739008b2ffa52f13c77c5d6fc59c9e17d56\"},{\"path\":\"packages/http.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/http.js?9c5d152169ba9a5a57b6b8ec28e64bbd0d308077\",\"sourceMap\":\"packages/http.js.map\",\"sourceMapUrl\":\"/packages/9c5d152169ba9a5a57b6b8ec28e64bbd0d308077.map\",\"size\":37036,\"hash\":\"9c5d152169ba9a5a57b6b8ec28e64bbd0d308077\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?265926494aaa3929cd2e30da265211c5929f37a4\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/265926494aaa3929cd2e30da265211c5929f37a4.map\",\"size\":1295407,\"hash\":\"265926494aaa3929cd2e30da265211c5929f37a4\"},{\"path\":\"packages/mizzao_bootstrap-3.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mizzao_bootstrap-3.js?22b8c020a13542fe69c5ffae82f6b6ab7944b181\",\"sourceMap\":\"packages/mizzao_bootstrap-3.js.map\",\"sourceMapUrl\":\"/packages/22b8c020a13542fe69c5ffae82f6b6ab7944b181.map\",\"size\":269800,\"hash\":\"22b8c020a13542fe69c5ffae82f6b6ab7944b181\"},{\"path\":\"packages/particle4dev_sass.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/particle4dev_sass.js?a3f2269c77b57b927e9dafa12272bef808162b18\",\"sourceMap\":\"packages/particle4dev_sass.js.map\",\"sourceMapUrl\":\"/packages/a3f2269c77b57b927e9dafa12272bef808162b18.map\",\"size\":1302,\"hash\":\"a3f2269c77b57b927e9dafa12272bef808162b18\"},{\"path\":\"packages/mrt_font-awesome-sass.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mrt_font-awesome-sass.js?b471d0a44e935663b73a0d34ef8419b49334f8bc\",\"sourceMap\":\"packages/mrt_font-awesome-sass.js.map\",\"sourceMapUrl\":\"/packages/b471d0a44e935663b73a0d34ef8419b49334f8bc.map\",\"size\":1306,\"hash\":\"b471d0a44e935663b73a0d34ef8419b49334f8bc\"},{\"path\":\"packages/percolatestudio_synced-cron.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/percolatestudio_synced-cron.js?ce4455591d0b3edd1b7e3cf30df0ef7a3af2f93d\",\"sourceMap\":\"packages/percolatestudio_synced-cron.js.map\",\"sourceMapUrl\":\"/packages/ce4455591d0b3edd1b7e3cf30df0ef7a3af2f93d.map\",\"size\":1312,\"hash\":\"ce4455591d0b3edd1b7e3cf30df0ef7a3af2f93d\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?12c4a1ab0116b6cd1764ac1c05a7a430ec4e7b73\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/12c4a1ab0116b6cd1764ac1c05a7a430ec4e7b73.map\",\"size\":562176,\"hash\":\"12c4a1ab0116b6cd1764ac1c05a7a430ec4e7b73\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a.map\",\"size\":6854,\"hash\":\"6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?539b5fc23cf5e63bc8e324543a1026b138316a8c\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/539b5fc23cf5e63bc8e324543a1026b138316a8c.map\",\"size\":110444,\"hash\":\"539b5fc23cf5e63bc8e324543a1026b138316a8c\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map\",\"size\":13963,\"hash\":\"20335b7b37165980ddd9f23943b2e5b00aae1cc2\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?77c0809654ee3a10dcd5a4f961fb1437e7957d33\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/77c0809654ee3a10dcd5a4f961fb1437e7957d33.map\",\"size\":385864,\"hash\":\"77c0809654ee3a10dcd5a4f961fb1437e7957d33\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?599ba307216da826d8b335332ebcc9a497a369a0\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/599ba307216da826d8b335332ebcc9a497a369a0.map\",\"size\":11910,\"hash\":\"599ba307216da826d8b335332ebcc9a497a369a0\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?8f5f07408181c410b8a9a73386eec5ab76a7c91f\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/8f5f07408181c410b8a9a73386eec5ab76a7c91f.map\",\"size\":87778,\"hash\":\"8f5f07408181c410b8a9a73386eec5ab76a7c91f\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/iron_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_core.js?d966a1f70c94792fd94c8a155bdbef9bec5e0047\",\"sourceMap\":\"packages/iron_core.js.map\",\"sourceMapUrl\":\"/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map\",\"size\":32915,\"hash\":\"d966a1f70c94792fd94c8a155bdbef9bec5e0047\"},{\"path\":\"packages/iron_dynamic-template.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_dynamic-template.js?4d8240a576804301368600b388b97065770c2964\",\"sourceMap\":\"packages/iron_dynamic-template.js.map\",\"sourceMapUrl\":\"/packages/4d8240a576804301368600b388b97065770c2964.map\",\"size\":85060,\"hash\":\"4d8240a576804301368600b388b97065770c2964\"},{\"path\":\"packages/iron_layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_layout.js?4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\",\"sourceMap\":\"packages/iron_layout.js.map\",\"sourceMapUrl\":\"/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map\",\"size\":62058,\"hash\":\"4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\"},{\"path\":\"packages/iron_url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_url.js?3a21b7348e189346a5f73bbe6220cc5257b9846e\",\"sourceMap\":\"packages/iron_url.js.map\",\"sourceMapUrl\":\"/packages/3a21b7348e189346a5f73bbe6220cc5257b9846e.map\",\"size\":65622,\"hash\":\"3a21b7348e189346a5f73bbe6220cc5257b9846e\"},{\"path\":\"packages/iron_middleware-stack.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_middleware-stack.js?87fc6153735b0c669013d562b796bbd57c993d79\",\"sourceMap\":\"packages/iron_middleware-stack.js.map\",\"sourceMapUrl\":\"/packages/87fc6153735b0c669013d562b796bbd57c993d79.map\",\"size\":46799,\"hash\":\"87fc6153735b0c669013d562b796bbd57c993d79\"},{\"path\":\"packages/iron_location.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_location.js?6adea3d9be8c08f0d48e261a4a3d53c77d0d7315\",\"sourceMap\":\"packages/iron_location.js.map\",\"sourceMapUrl\":\"/packages/6adea3d9be8c08f0d48e261a4a3d53c77d0d7315.map\",\"size\":41773,\"hash\":\"6adea3d9be8c08f0d48e261a4a3d53c77d0d7315\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map\",\"size\":19802,\"hash\":\"6b25309b1f0dcf775b44984324878d6f8ad1abc2\"},{\"path\":\"packages/iron_controller.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_controller.js?c4a074a0f421ce052a59282e7eae64f7049061cb\",\"sourceMap\":\"packages/iron_controller.js.map\",\"sourceMapUrl\":\"/packages/c4a074a0f421ce052a59282e7eae64f7049061cb.map\",\"size\":41091,\"hash\":\"c4a074a0f421ce052a59282e7eae64f7049061cb\"},{\"path\":\"packages/iron_router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_router.js?3fb4caf61f2b332b14dabb884ba512baa2663af2\",\"sourceMap\":\"packages/iron_router.js.map\",\"sourceMapUrl\":\"/packages/3fb4caf61f2b332b14dabb884ba512baa2663af2.map\",\"size\":213813,\"hash\":\"3fb4caf61f2b332b14dabb884ba512baa2663af2\"},{\"path\":\"packages/sacha_spin.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sacha_spin.js?6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\",\"sourceMap\":\"packages/sacha_spin.js.map\",\"sourceMapUrl\":\"/packages/6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04.map\",\"size\":48440,\"hash\":\"6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\"},{\"path\":\"packages/aldeed_simple-schema.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/aldeed_simple-schema.js?6b088ed5394a2f8f07e9602d918d515b3acad5e6\",\"sourceMap\":\"packages/aldeed_simple-schema.js.map\",\"sourceMapUrl\":\"/packages/6b088ed5394a2f8f07e9602d918d515b3acad5e6.map\",\"size\":471515,\"hash\":\"6b088ed5394a2f8f07e9602d918d515b3acad5e6\"},{\"path\":\"packages/mongo-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo-livedata.js?e6ebca489f38b73788b494509a4f83d87fdbf6c0\",\"sourceMap\":\"packages/mongo-livedata.js.map\",\"sourceMapUrl\":\"/packages/e6ebca489f38b73788b494509a4f83d87fdbf6c0.map\",\"size\":1299,\"hash\":\"e6ebca489f38b73788b494509a4f83d87fdbf6c0\"},{\"path\":\"packages/aldeed_collection2.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/aldeed_collection2.js?525ba7d2b38809f4b3de1e552fabb647d8fc56ae\",\"sourceMap\":\"packages/aldeed_collection2.js.map\",\"sourceMapUrl\":\"/packages/525ba7d2b38809f4b3de1e552fabb647d8fc56ae.map\",\"size\":69751,\"hash\":\"525ba7d2b38809f4b3de1e552fabb647d8fc56ae\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?e436deefadc999c21b6fd16e8e1ecce55c3c3a55\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map\",\"size\":6497,\"hash\":\"e436deefadc999c21b6fd16e8e1ecce55c3c3a55\"},{\"path\":\"packages/handlebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/handlebars.js?038145b6256cd6a69c11650ed6bf12b093920095\",\"sourceMap\":\"packages/handlebars.js.map\",\"sourceMapUrl\":\"/packages/038145b6256cd6a69c11650ed6bf12b093920095.map\",\"size\":1292,\"hash\":\"038145b6256cd6a69c11650ed6bf12b093920095\"},{\"path\":\"packages/stylus.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/stylus.js?48b7e3e0953c004a73211d7489462e73ed11be2c\",\"sourceMap\":\"packages/stylus.js.map\",\"sourceMapUrl\":\"/packages/48b7e3e0953c004a73211d7489462e73ed11be2c.map\",\"size\":1288,\"hash\":\"48b7e3e0953c004a73211d7489462e73ed11be2c\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?6ed32803c332f93f65e36a195f42e58a62ed028d\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/6ed32803c332f93f65e36a195f42e58a62ed028d.map\",\"size\":108969,\"hash\":\"6ed32803c332f93f65e36a195f42e58a62ed028d\"},{\"path\":\"packages/anti_i18n.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/anti_i18n.js?b753e9e958be5df82d8bdde8dc342a2870ccf372\",\"sourceMap\":\"packages/anti_i18n.js.map\",\"sourceMapUrl\":\"/packages/b753e9e958be5df82d8bdde8dc342a2870ccf372.map\",\"size\":11110,\"hash\":\"b753e9e958be5df82d8bdde8dc342a2870ccf372\"},{\"path\":\"packages/ian_accounts-ui-bootstrap-3.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ian_accounts-ui-bootstrap-3.js?b50e629f5d35cab4970a2385db66b46176db4dd4\",\"sourceMap\":\"packages/ian_accounts-ui-bootstrap-3.js.map\",\"sourceMapUrl\":\"/packages/b50e629f5d35cab4970a2385db66b46176db4dd4.map\",\"size\":287461,\"hash\":\"b50e629f5d35cab4970a2385db66b46176db4dd4\"},{\"path\":\"packages/sha.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sha.js?65ef52f7221944768bfc2049d6b7e163c8ae2615\",\"sourceMap\":\"packages/sha.js.map\",\"sourceMapUrl\":\"/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map\",\"size\":19584,\"hash\":\"65ef52f7221944768bfc2049d6b7e163c8ae2615\"},{\"path\":\"packages/srp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/srp.js?e2e28156e8c912d504a3586351c8a1119f664cfd\",\"sourceMap\":\"packages/srp.js.map\",\"sourceMapUrl\":\"/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map\",\"size\":173470,\"hash\":\"e2e28156e8c912d504a3586351c8a1119f664cfd\"},{\"path\":\"packages/accounts-password.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-password.js?6c517b689e15ab07dd443895b7ed801683dda159\",\"sourceMap\":\"packages/accounts-password.js.map\",\"sourceMapUrl\":\"/packages/6c517b689e15ab07dd443895b7ed801683dda159.map\",\"size\":33053,\"hash\":\"6c517b689e15ab07dd443895b7ed801683dda159\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?3c496d2950151d744a8574297b46d2763a123bdf\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/3c496d2950151d744a8574297b46d2763a123bdf.map\",\"size\":42134,\"hash\":\"3c496d2950151d744a8574297b46d2763a123bdf\"},{\"path\":\"packages/launch-screen.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/launch-screen.js?13e1092ebecdb7208762500188f1dc2dea5603e9\",\"sourceMap\":\"packages/launch-screen.js.map\",\"sourceMapUrl\":\"/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map\",\"size\":9707,\"hash\":\"13e1092ebecdb7208762500188f1dc2dea5603e9\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?b57175e342a19aa6ea411ed21a14fecc733fe516\",\"size\":1126,\"hash\":\"b57175e342a19aa6ea411ed21a14fecc733fe516\"},{\"path\":\"app/client/templates/application/template.layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.layout.js?6842f940a6133202f540ba1ad1b8fa102229337a\",\"size\":1568,\"hash\":\"6842f940a6133202f540ba1ad1b8fa102229337a\"},{\"path\":\"app/client/charger/template.charger.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/charger/template.charger.js?79c0c2d793e82012788567f8c01501934072b178\",\"size\":2758,\"hash\":\"79c0c2d793e82012788567f8c01501934072b178\"},{\"path\":\"app/client/chargers/template.chargers.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/chargers/template.chargers.js?ff1eec53264e8f772f87b7d2c87303c89660c106\",\"size\":589,\"hash\":\"ff1eec53264e8f772f87b7d2c87303c89660c106\"},{\"path\":\"app/lib/collections/charger_schema.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/collections/charger_schema.coffee.js?7ca6505f70813a8b5730a2b67e2aafdebc08af89\",\"sourceMap\":\"app/lib/collections/charger_schema.coffee.js.map\",\"sourceMapUrl\":\"/lib/collections/7ca6505f70813a8b5730a2b67e2aafdebc08af89.map\",\"size\":258,\"hash\":\"7ca6505f70813a8b5730a2b67e2aafdebc08af89\"},{\"path\":\"app/lib/router.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/router.coffee.js?76239005415b79a9bf3d996aaf56bd31725d2006\",\"sourceMap\":\"app/lib/router.coffee.js.map\",\"sourceMapUrl\":\"/lib/76239005415b79a9bf3d996aaf56bd31725d2006.map\",\"size\":582,\"hash\":\"76239005415b79a9bf3d996aaf56bd31725d2006\"},{\"path\":\"app/client/charger/charger.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/charger/charger.coffee.js?89145dc7b3423fbf879d0bea60342e9022f69510\",\"sourceMap\":\"app/client/charger/charger.coffee.js.map\",\"sourceMapUrl\":\"/client/charger/89145dc7b3423fbf879d0bea60342e9022f69510.map\",\"size\":2718,\"hash\":\"89145dc7b3423fbf879d0bea60342e9022f69510\"},{\"path\":\"app/client/chargers/chargers.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/chargers/chargers.coffee.js?d0170d8b4aef158c6203abecb9f907d9c475f103\",\"sourceMap\":\"app/client/chargers/chargers.coffee.js.map\",\"sourceMapUrl\":\"/client/chargers/d0170d8b4aef158c6203abecb9f907d9c475f103.map\",\"size\":327,\"hash\":\"d0170d8b4aef158c6203abecb9f907d9c475f103\"},{\"path\":\"app/allsites.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/allsites.js?c70bb18f0fe12a8a2b611ad9c0bd4956bbddde00\",\"size\":6138,\"hash\":\"c70bb18f0fe12a8a2b611ad9c0bd4956bbddde00\"},{\"path\":\"app/client/main.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/main.coffee.js?be2b16e6a17f756f2361a5754e41271cad7601fe\",\"sourceMap\":\"app/client/main.coffee.js.map\",\"sourceMapUrl\":\"/client/be2b16e6a17f756f2361a5754e41271cad7601fe.map\",\"size\":177,\"hash\":\"be2b16e6a17f756f2361a5754e41271cad7601fe\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"9669dbaac473eb5ea6c5cc209ba5ae8b53100b98.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/9669dbaac473eb5ea6c5cc209ba5ae8b53100b98.css\",\"sourceMap\":\"9669dbaac473eb5ea6c5cc209ba5ae8b53100b98.css.map\",\"sourceMapUrl\":\"/9669dbaac473eb5ea6c5cc209ba5ae8b53100b98.map\",\"size\":148824,\"hash\":\"9669dbaac473eb5ea6c5cc209ba5ae8b53100b98\"},{\"path\":\"packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot\",\"size\":20335,\"hash\":\"f3a9a3b609133c3d21d6b42abbf7f43bd111df72\"},{\"path\":\"packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf\",\"size\":41280,\"hash\":\"aafafdc09404c4aa4447d7e898a2183def9cc1b1\"},{\"path\":\"packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg\",\"size\":62927,\"hash\":\"3ef91859cbec165ac97df6957b176f69e8d6a04d\"},{\"path\":\"packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff\",\"size\":23320,\"hash\":\"22037a3455914e5662fa51a596677bdb329e2c5c\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_logo.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_logo.svg\",\"size\":3723,\"hash\":\"bd19ecdc8eb1084f7bb562c298e4ce41f9cdc698\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_cog.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_cog.svg\",\"size\":987,\"hash\":\"6e74acfffcbd2bafdc8a95d9db7762ece07b1e81\"},{\"path\":\"packages/velocity_html-reporter/lib/icon-time.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/icon-time.png\",\"size\":2834,\"hash\":\"868f492022a4dab0f1522de6aae0773531bc6e85\"}],\"version\":\"b40cbb715a2d5e47d762b722079742ca64c6d6fc\"}"
+                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?61916b1060b33931a21f104fbffb67c2f3d493c5\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/61916b1060b33931a21f104fbffb67c2f3d493c5.map\",\"size\":108989,\"hash\":\"61916b1060b33931a21f104fbffb67c2f3d493c5\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map\",\"size\":81471,\"hash\":\"71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map\",\"size\":25926,\"hash\":\"da8974b7231dd8c0caccb5f322dcf97329d486d1\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?192a05cc46b867dadbe8bf90dd961f6f8fd1574f\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/192a05cc46b867dadbe8bf90dd961f6f8fd1574f.map\",\"size\":66854,\"hash\":\"192a05cc46b867dadbe8bf90dd961f6f8fd1574f\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?803a2be518a0c6c3949e45cf65c4ad627a3d603a\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/803a2be518a0c6c3949e45cf65c4ad627a3d603a.map\",\"size\":35207,\"hash\":\"803a2be518a0c6c3949e45cf65c4ad627a3d603a\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?9adf0102ce60b3df01914155826e1661f636e91d\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/9adf0102ce60b3df01914155826e1661f636e91d.map\",\"size\":455764,\"hash\":\"9adf0102ce60b3df01914155826e1661f636e91d\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2.map\",\"size\":616556,\"hash\":\"1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?9bc2c5a8b2796fab86b51660ca643e5a49a30c84\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/9bc2c5a8b2796fab86b51660ca643e5a49a30c84.map\",\"size\":146178,\"hash\":\"9bc2c5a8b2796fab86b51660ca643e5a49a30c84\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?c823646e93561d86e6bcb3cbd2457a8540e519c1\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/c823646e93561d86e6bcb3cbd2457a8540e519c1.map\",\"size\":17152,\"hash\":\"c823646e93561d86e6bcb3cbd2457a8540e519c1\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/coffeescript.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/coffeescript.js?969f68786bbc68e6cad299e74922a53af3d1404b\",\"sourceMap\":\"packages/coffeescript.js.map\",\"sourceMapUrl\":\"/packages/969f68786bbc68e6cad299e74922a53af3d1404b.map\",\"size\":1294,\"hash\":\"969f68786bbc68e6cad299e74922a53af3d1404b\"},{\"path\":\"packages/url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/url.js?2312d739008b2ffa52f13c77c5d6fc59c9e17d56\",\"sourceMap\":\"packages/url.js.map\",\"sourceMapUrl\":\"/packages/2312d739008b2ffa52f13c77c5d6fc59c9e17d56.map\",\"size\":6642,\"hash\":\"2312d739008b2ffa52f13c77c5d6fc59c9e17d56\"},{\"path\":\"packages/http.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/http.js?9c5d152169ba9a5a57b6b8ec28e64bbd0d308077\",\"sourceMap\":\"packages/http.js.map\",\"sourceMapUrl\":\"/packages/9c5d152169ba9a5a57b6b8ec28e64bbd0d308077.map\",\"size\":37036,\"hash\":\"9c5d152169ba9a5a57b6b8ec28e64bbd0d308077\"},{\"path\":\"packages/particle4dev_sass.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/particle4dev_sass.js?a3f2269c77b57b927e9dafa12272bef808162b18\",\"sourceMap\":\"packages/particle4dev_sass.js.map\",\"sourceMapUrl\":\"/packages/a3f2269c77b57b927e9dafa12272bef808162b18.map\",\"size\":1302,\"hash\":\"a3f2269c77b57b927e9dafa12272bef808162b18\"},{\"path\":\"packages/percolatestudio_synced-cron.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/percolatestudio_synced-cron.js?ce4455591d0b3edd1b7e3cf30df0ef7a3af2f93d\",\"sourceMap\":\"packages/percolatestudio_synced-cron.js.map\",\"sourceMapUrl\":\"/packages/ce4455591d0b3edd1b7e3cf30df0ef7a3af2f93d.map\",\"size\":1312,\"hash\":\"ce4455591d0b3edd1b7e3cf30df0ef7a3af2f93d\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?265926494aaa3929cd2e30da265211c5929f37a4\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/265926494aaa3929cd2e30da265211c5929f37a4.map\",\"size\":1295407,\"hash\":\"265926494aaa3929cd2e30da265211c5929f37a4\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?539b5fc23cf5e63bc8e324543a1026b138316a8c\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/539b5fc23cf5e63bc8e324543a1026b138316a8c.map\",\"size\":110444,\"hash\":\"539b5fc23cf5e63bc8e324543a1026b138316a8c\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map\",\"size\":13963,\"hash\":\"20335b7b37165980ddd9f23943b2e5b00aae1cc2\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?77c0809654ee3a10dcd5a4f961fb1437e7957d33\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/77c0809654ee3a10dcd5a4f961fb1437e7957d33.map\",\"size\":385864,\"hash\":\"77c0809654ee3a10dcd5a4f961fb1437e7957d33\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?599ba307216da826d8b335332ebcc9a497a369a0\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/599ba307216da826d8b335332ebcc9a497a369a0.map\",\"size\":11910,\"hash\":\"599ba307216da826d8b335332ebcc9a497a369a0\"},{\"path\":\"packages/iron_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_core.js?d966a1f70c94792fd94c8a155bdbef9bec5e0047\",\"sourceMap\":\"packages/iron_core.js.map\",\"sourceMapUrl\":\"/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map\",\"size\":32915,\"hash\":\"d966a1f70c94792fd94c8a155bdbef9bec5e0047\"},{\"path\":\"packages/iron_dynamic-template.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_dynamic-template.js?4d8240a576804301368600b388b97065770c2964\",\"sourceMap\":\"packages/iron_dynamic-template.js.map\",\"sourceMapUrl\":\"/packages/4d8240a576804301368600b388b97065770c2964.map\",\"size\":85060,\"hash\":\"4d8240a576804301368600b388b97065770c2964\"},{\"path\":\"packages/iron_layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_layout.js?4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\",\"sourceMap\":\"packages/iron_layout.js.map\",\"sourceMapUrl\":\"/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map\",\"size\":62058,\"hash\":\"4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\"},{\"path\":\"packages/iron_url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_url.js?64909615eb5ca24e4cc2475690b248156bdaaa2d\",\"sourceMap\":\"packages/iron_url.js.map\",\"sourceMapUrl\":\"/packages/64909615eb5ca24e4cc2475690b248156bdaaa2d.map\",\"size\":65852,\"hash\":\"64909615eb5ca24e4cc2475690b248156bdaaa2d\"},{\"path\":\"packages/iron_middleware-stack.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_middleware-stack.js?a5498c20e8d95674957e3fc042838aa7a5d585b6\",\"sourceMap\":\"packages/iron_middleware-stack.js.map\",\"sourceMapUrl\":\"/packages/a5498c20e8d95674957e3fc042838aa7a5d585b6.map\",\"size\":48779,\"hash\":\"a5498c20e8d95674957e3fc042838aa7a5d585b6\"},{\"path\":\"packages/iron_location.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_location.js?0434907da386df80b0a769a8c4decc5374a3fdb6\",\"sourceMap\":\"packages/iron_location.js.map\",\"sourceMapUrl\":\"/packages/0434907da386df80b0a769a8c4decc5374a3fdb6.map\",\"size\":51357,\"hash\":\"0434907da386df80b0a769a8c4decc5374a3fdb6\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map\",\"size\":19802,\"hash\":\"6b25309b1f0dcf775b44984324878d6f8ad1abc2\"},{\"path\":\"packages/iron_controller.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_controller.js?c4a074a0f421ce052a59282e7eae64f7049061cb\",\"sourceMap\":\"packages/iron_controller.js.map\",\"sourceMapUrl\":\"/packages/c4a074a0f421ce052a59282e7eae64f7049061cb.map\",\"size\":41091,\"hash\":\"c4a074a0f421ce052a59282e7eae64f7049061cb\"},{\"path\":\"packages/iron_router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_router.js?1e7cf520f347cfd6afb14db6b156adc7704ffc5e\",\"sourceMap\":\"packages/iron_router.js.map\",\"sourceMapUrl\":\"/packages/1e7cf520f347cfd6afb14db6b156adc7704ffc5e.map\",\"size\":213337,\"hash\":\"1e7cf520f347cfd6afb14db6b156adc7704ffc5e\"},{\"path\":\"packages/sacha_spin.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sacha_spin.js?6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\",\"sourceMap\":\"packages/sacha_spin.js.map\",\"sourceMapUrl\":\"/packages/6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04.map\",\"size\":48440,\"hash\":\"6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?e436deefadc999c21b6fd16e8e1ecce55c3c3a55\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map\",\"size\":6497,\"hash\":\"e436deefadc999c21b6fd16e8e1ecce55c3c3a55\"},{\"path\":\"packages/handlebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/handlebars.js?038145b6256cd6a69c11650ed6bf12b093920095\",\"sourceMap\":\"packages/handlebars.js.map\",\"sourceMapUrl\":\"/packages/038145b6256cd6a69c11650ed6bf12b093920095.map\",\"size\":1292,\"hash\":\"038145b6256cd6a69c11650ed6bf12b093920095\"},{\"path\":\"packages/stylus.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/stylus.js?48b7e3e0953c004a73211d7489462e73ed11be2c\",\"sourceMap\":\"packages/stylus.js.map\",\"sourceMapUrl\":\"/packages/48b7e3e0953c004a73211d7489462e73ed11be2c.map\",\"size\":1288,\"hash\":\"48b7e3e0953c004a73211d7489462e73ed11be2c\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?6ed32803c332f93f65e36a195f42e58a62ed028d\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/6ed32803c332f93f65e36a195f42e58a62ed028d.map\",\"size\":108969,\"hash\":\"6ed32803c332f93f65e36a195f42e58a62ed028d\"},{\"path\":\"packages/anti_i18n.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/anti_i18n.js?b753e9e958be5df82d8bdde8dc342a2870ccf372\",\"sourceMap\":\"packages/anti_i18n.js.map\",\"sourceMapUrl\":\"/packages/b753e9e958be5df82d8bdde8dc342a2870ccf372.map\",\"size\":11110,\"hash\":\"b753e9e958be5df82d8bdde8dc342a2870ccf372\"},{\"path\":\"packages/ian_accounts-ui-bootstrap-3.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ian_accounts-ui-bootstrap-3.js?cac3dbb7e69b094502fb039abd0b41a9b588392d\",\"sourceMap\":\"packages/ian_accounts-ui-bootstrap-3.js.map\",\"sourceMapUrl\":\"/packages/cac3dbb7e69b094502fb039abd0b41a9b588392d.map\",\"size\":346946,\"hash\":\"cac3dbb7e69b094502fb039abd0b41a9b588392d\"},{\"path\":\"packages/sha.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sha.js?65ef52f7221944768bfc2049d6b7e163c8ae2615\",\"sourceMap\":\"packages/sha.js.map\",\"sourceMapUrl\":\"/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map\",\"size\":19584,\"hash\":\"65ef52f7221944768bfc2049d6b7e163c8ae2615\"},{\"path\":\"packages/srp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/srp.js?e2e28156e8c912d504a3586351c8a1119f664cfd\",\"sourceMap\":\"packages/srp.js.map\",\"sourceMapUrl\":\"/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map\",\"size\":173470,\"hash\":\"e2e28156e8c912d504a3586351c8a1119f664cfd\"},{\"path\":\"packages/accounts-password.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-password.js?6c517b689e15ab07dd443895b7ed801683dda159\",\"sourceMap\":\"packages/accounts-password.js.map\",\"sourceMapUrl\":\"/packages/6c517b689e15ab07dd443895b7ed801683dda159.map\",\"size\":33053,\"hash\":\"6c517b689e15ab07dd443895b7ed801683dda159\"},{\"path\":\"packages/natestrauser_font-awesome.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/natestrauser_font-awesome.js?52a6c4b3336f875d7c0188d870cc04a652019614\",\"sourceMap\":\"packages/natestrauser_font-awesome.js.map\",\"sourceMapUrl\":\"/packages/52a6c4b3336f875d7c0188d870cc04a652019614.map\",\"size\":2808,\"hash\":\"52a6c4b3336f875d7c0188d870cc04a652019614\"},{\"path\":\"packages/mrt_momentjs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mrt_momentjs.js?6ccf49aa6d89ef76b727c0e240bcd00602be2b8d\",\"sourceMap\":\"packages/mrt_momentjs.js.map\",\"sourceMapUrl\":\"/packages/6ccf49aa6d89ef76b727c0e240bcd00602be2b8d.map\",\"size\":109341,\"hash\":\"6ccf49aa6d89ef76b727c0e240bcd00602be2b8d\"},{\"path\":\"packages/mquandalle_jade.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mquandalle_jade.js?4ef76f2755f391c688ce8f0925fe8c8eee38b45b\",\"sourceMap\":\"packages/mquandalle_jade.js.map\",\"sourceMapUrl\":\"/packages/4ef76f2755f391c688ce8f0925fe8c8eee38b45b.map\",\"size\":1300,\"hash\":\"4ef76f2755f391c688ce8f0925fe8c8eee38b45b\"},{\"path\":\"packages/joshowens_inflectionizer.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/joshowens_inflectionizer.js?8a96e4c8d668eabf6245eec9eb8f1d7d0ba6593b\",\"sourceMap\":\"packages/joshowens_inflectionizer.js.map\",\"sourceMapUrl\":\"/packages/8a96e4c8d668eabf6245eec9eb8f1d7d0ba6593b.map\",\"size\":36279,\"hash\":\"8a96e4c8d668eabf6245eec9eb8f1d7d0ba6593b\"},{\"path\":\"packages/mizzao_bootstrap-3.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mizzao_bootstrap-3.js?8d8f544e1328b7a62d76dbbbbf7d1fd5f559c919\",\"sourceMap\":\"packages/mizzao_bootstrap-3.js.map\",\"sourceMapUrl\":\"/packages/8d8f544e1328b7a62d76dbbbbf7d1fd5f559c919.map\",\"size\":295910,\"hash\":\"8d8f544e1328b7a62d76dbbbbf7d1fd5f559c919\"},{\"path\":\"packages/chuangbo_marked.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/chuangbo_marked.js?e581a50a8d5be2080cf932804ae196aba7b1f0ac\",\"sourceMap\":\"packages/chuangbo_marked.js.map\",\"sourceMapUrl\":\"/packages/e581a50a8d5be2080cf932804ae196aba7b1f0ac.map\",\"size\":114202,\"hash\":\"e581a50a8d5be2080cf932804ae196aba7b1f0ac\"},{\"path\":\"packages/practicalmeteor_chai.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_chai.js?7fbbbec9a13f4adf082b394c5ddd7230d84afc48\",\"sourceMap\":\"packages/practicalmeteor_chai.js.map\",\"sourceMapUrl\":\"/packages/7fbbbec9a13f4adf082b394c5ddd7230d84afc48.map\",\"size\":570118,\"hash\":\"7fbbbec9a13f4adf082b394c5ddd7230d84afc48\"},{\"path\":\"packages/practicalmeteor_loglevel.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_loglevel.js?9185331dfa11fd235edfbef93838d4ca3244d638\",\"sourceMap\":\"packages/practicalmeteor_loglevel.js.map\",\"sourceMapUrl\":\"/packages/9185331dfa11fd235edfbef93838d4ca3244d638.map\",\"size\":28719,\"hash\":\"9185331dfa11fd235edfbef93838d4ca3244d638\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?82241038c303e73253980ddbae67ac50a3e9f6ad\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/82241038c303e73253980ddbae67ac50a3e9f6ad.map\",\"size\":12238,\"hash\":\"82241038c303e73253980ddbae67ac50a3e9f6ad\"},{\"path\":\"packages/velocity_shim.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_shim.js?14363d085a412115605c41536e4f2867425b89d5\",\"sourceMap\":\"packages/velocity_shim.js.map\",\"sourceMapUrl\":\"/packages/14363d085a412115605c41536e4f2867425b89d5.map\",\"size\":2905,\"hash\":\"14363d085a412115605c41536e4f2867425b89d5\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?04ba42a040aed861ffffa46e10517174e66b3a8b\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/04ba42a040aed861ffffa46e10517174e66b3a8b.map\",\"size\":496993,\"hash\":\"04ba42a040aed861ffffa46e10517174e66b3a8b\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?ce964321f60af6148e18fddaa0ce1ee81926dfec\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/ce964321f60af6148e18fddaa0ce1ee81926dfec.map\",\"size\":85688,\"hash\":\"ce964321f60af6148e18fddaa0ce1ee81926dfec\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?3c496d2950151d744a8574297b46d2763a123bdf\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/3c496d2950151d744a8574297b46d2763a123bdf.map\",\"size\":42134,\"hash\":\"3c496d2950151d744a8574297b46d2763a123bdf\"},{\"path\":\"packages/launch-screen.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/launch-screen.js?13e1092ebecdb7208762500188f1dc2dea5603e9\",\"sourceMap\":\"packages/launch-screen.js.map\",\"sourceMapUrl\":\"/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map\",\"size\":9707,\"hash\":\"13e1092ebecdb7208762500188f1dc2dea5603e9\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?0c08ba833dd8a716adbcf14776d62f40e20aa3a1\",\"size\":1047,\"hash\":\"0c08ba833dd8a716adbcf14776d62f40e20aa3a1\"},{\"path\":\"app/client/templates/application/layout.jade.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/layout.jade.js?a99237c59dacf02f65c6d22b4295d78ad492a3d7\",\"size\":2614,\"hash\":\"a99237c59dacf02f65c6d22b4295d78ad492a3d7\"},{\"path\":\"app/client/templates/includes/loading.jade.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/includes/loading.jade.js?0b820746542c3b65b4fd0c78c00237f88a5c9a3f\",\"size\":206,\"hash\":\"0b820746542c3b65b4fd0c78c00237f88a5c9a3f\"},{\"path\":\"app/client/templates/includes/notfound.jade.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/includes/notfound.jade.js?9343e54753016d26de21e9f935a83af480cfe487\",\"size\":289,\"hash\":\"9343e54753016d26de21e9f935a83af480cfe487\"},{\"path\":\"app/client/about/template.about.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/about/template.about.js?7b867745adbfe77acfa26d146de1a4e79cdcac31\",\"size\":2876,\"hash\":\"7b867745adbfe77acfa26d146de1a4e79cdcac31\"},{\"path\":\"app/client/charger/charger.jade.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/charger/charger.jade.js?9f8d58ce94005a0caa3a24202e76af71e7c9a992\",\"size\":4014,\"hash\":\"9f8d58ce94005a0caa3a24202e76af71e7c9a992\"},{\"path\":\"app/client/chargers/chargers.jade.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/chargers/chargers.jade.js?f010c0435151bde47154fe0701a7ed254e192a7f\",\"size\":1538,\"hash\":\"f010c0435151bde47154fe0701a7ed254e192a7f\"},{\"path\":\"app/lib/collections/chargers.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/collections/chargers.coffee.js?73d3419d976fb6048f4eb619e53363f9b9ffad5a\",\"sourceMap\":\"app/lib/collections/chargers.coffee.js.map\",\"sourceMapUrl\":\"/lib/collections/73d3419d976fb6048f4eb619e53363f9b9ffad5a.map\",\"size\":3012,\"hash\":\"73d3419d976fb6048f4eb619e53363f9b9ffad5a\"},{\"path\":\"app/lib/collections/updates.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/collections/updates.coffee.js?6038cfb1f4f842516f21f9ed083a6de67909c93e\",\"sourceMap\":\"app/lib/collections/updates.coffee.js.map\",\"sourceMapUrl\":\"/lib/collections/6038cfb1f4f842516f21f9ed083a6de67909c93e.map\",\"size\":300,\"hash\":\"6038cfb1f4f842516f21f9ed083a6de67909c93e\"},{\"path\":\"app/lib/models/charger.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/models/charger.coffee.js?a1800af19fc7e91176b383892c76b79ab7271e91\",\"sourceMap\":\"app/lib/models/charger.coffee.js.map\",\"sourceMapUrl\":\"/lib/models/a1800af19fc7e91176b383892c76b79ab7271e91.map\",\"size\":143,\"hash\":\"a1800af19fc7e91176b383892c76b79ab7271e91\"},{\"path\":\"app/lib/accounts.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/accounts.coffee.js?15b13b5dc3df86806fac48d2ab3c82e7deb2a06e\",\"sourceMap\":\"app/lib/accounts.coffee.js.map\",\"sourceMapUrl\":\"/lib/15b13b5dc3df86806fac48d2ab3c82e7deb2a06e.map\",\"size\":194,\"hash\":\"15b13b5dc3df86806fac48d2ab3c82e7deb2a06e\"},{\"path\":\"app/lib/helpers.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/helpers.coffee.js?aeffaeca3b817b9c4b61a49710234232eaa7359a\",\"sourceMap\":\"app/lib/helpers.coffee.js.map\",\"sourceMapUrl\":\"/lib/aeffaeca3b817b9c4b61a49710234232eaa7359a.map\",\"size\":389,\"hash\":\"aeffaeca3b817b9c4b61a49710234232eaa7359a\"},{\"path\":\"app/lib/router.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/router.coffee.js?c02149bcf70c1ab9627d88544f3ff1b33ede468f\",\"sourceMap\":\"app/lib/router.coffee.js.map\",\"sourceMapUrl\":\"/lib/c02149bcf70c1ab9627d88544f3ff1b33ede468f.map\",\"size\":669,\"hash\":\"c02149bcf70c1ab9627d88544f3ff1b33ede468f\"},{\"path\":\"app/lib/version.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/version.coffee.js?d2b61d575b14aa29cd7b949718e69814ed8a39f7\",\"sourceMap\":\"app/lib/version.coffee.js.map\",\"sourceMapUrl\":\"/lib/d2b61d575b14aa29cd7b949718e69814ed8a39f7.map\",\"size\":222,\"hash\":\"d2b61d575b14aa29cd7b949718e69814ed8a39f7\"},{\"path\":\"app/client/templates/application/footer.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/footer.coffee.js?a1800af19fc7e91176b383892c76b79ab7271e91\",\"sourceMap\":\"app/client/templates/application/footer.coffee.js.map\",\"sourceMapUrl\":\"/client/templates/application/a1800af19fc7e91176b383892c76b79ab7271e91.map\",\"size\":143,\"hash\":\"a1800af19fc7e91176b383892c76b79ab7271e91\"},{\"path\":\"app/client/templates/application/search.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/search.coffee.js?7ce0c4cc625a1f8ebfc9b21ced968e146d398522\",\"sourceMap\":\"app/client/templates/application/search.coffee.js.map\",\"sourceMapUrl\":\"/client/templates/application/7ce0c4cc625a1f8ebfc9b21ced968e146d398522.map\",\"size\":426,\"hash\":\"7ce0c4cc625a1f8ebfc9b21ced968e146d398522\"},{\"path\":\"app/client/charger/charger.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/charger/charger.coffee.js?f66de6ed3c74c33b6ba44411c5b0b2309aa15020\",\"sourceMap\":\"app/client/charger/charger.coffee.js.map\",\"sourceMapUrl\":\"/client/charger/f66de6ed3c74c33b6ba44411c5b0b2309aa15020.map\",\"size\":2762,\"hash\":\"f66de6ed3c74c33b6ba44411c5b0b2309aa15020\"},{\"path\":\"app/client/chargers/chargers.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/chargers/chargers.coffee.js?d753ccb3759b359ac7caf5e23e8f768c2ec2c308\",\"sourceMap\":\"app/client/chargers/chargers.coffee.js.map\",\"sourceMapUrl\":\"/client/chargers/d753ccb3759b359ac7caf5e23e8f768c2ec2c308.map\",\"size\":1837,\"hash\":\"d753ccb3759b359ac7caf5e23e8f768c2ec2c308\"},{\"path\":\"app/client/accounts_ui.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/accounts_ui.coffee.js?75742c2307c8c317da87501be279401f5f47e36a\",\"sourceMap\":\"app/client/accounts_ui.coffee.js.map\",\"sourceMapUrl\":\"/client/75742c2307c8c317da87501be279401f5f47e36a.map\",\"size\":212,\"hash\":\"75742c2307c8c317da87501be279401f5f47e36a\"},{\"path\":\"app/client/updates.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/updates.coffee.js?cd67fa089f0dc097dfb354020b54fe28d5ba13b3\",\"sourceMap\":\"app/client/updates.coffee.js.map\",\"sourceMapUrl\":\"/client/cd67fa089f0dc097dfb354020b54fe28d5ba13b3.map\",\"size\":674,\"hash\":\"cd67fa089f0dc097dfb354020b54fe28d5ba13b3\"},{\"path\":\"app/allsites.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/allsites.js?c70bb18f0fe12a8a2b611ad9c0bd4956bbddde00\",\"size\":6138,\"hash\":\"c70bb18f0fe12a8a2b611ad9c0bd4956bbddde00\"},{\"path\":\"app/client/main.coffee.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/main.coffee.js?a1800af19fc7e91176b383892c76b79ab7271e91\",\"sourceMap\":\"app/client/main.coffee.js.map\",\"sourceMapUrl\":\"/client/a1800af19fc7e91176b383892c76b79ab7271e91.map\",\"size\":143,\"hash\":\"a1800af19fc7e91176b383892c76b79ab7271e91\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"packages/velocity_test-proxy.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_test-proxy.js?4b041a7016775526ee866c25d5fb1d1039ef28c1\",\"sourceMap\":\"packages/velocity_test-proxy.js.map\",\"sourceMapUrl\":\"/packages/4b041a7016775526ee866c25d5fb1d1039ef28c1.map\",\"size\":1304,\"hash\":\"4b041a7016775526ee866c25d5fb1d1039ef28c1\"},{\"path\":\"packages/velocity_node-soft-mirror.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_node-soft-mirror.js?cfbadc9d9aff21e824a2b9cf98841d5961cd08d2\",\"sourceMap\":\"packages/velocity_node-soft-mirror.js.map\",\"sourceMapUrl\":\"/packages/cfbadc9d9aff21e824a2b9cf98841d5961cd08d2.map\",\"size\":1310,\"hash\":\"cfbadc9d9aff21e824a2b9cf98841d5961cd08d2\"},{\"path\":\"41b9a9d7c02f8db0015ea1fbe86cc40eb5b780e8.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/41b9a9d7c02f8db0015ea1fbe86cc40eb5b780e8.css\",\"sourceMap\":\"41b9a9d7c02f8db0015ea1fbe86cc40eb5b780e8.css.map\",\"sourceMapUrl\":\"/41b9a9d7c02f8db0015ea1fbe86cc40eb5b780e8.map\",\"size\":153640,\"hash\":\"41b9a9d7c02f8db0015ea1fbe86cc40eb5b780e8\"},{\"path\":\"packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot\",\"size\":20335,\"hash\":\"f3a9a3b609133c3d21d6b42abbf7f43bd111df72\"},{\"path\":\"packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf\",\"size\":41280,\"hash\":\"aafafdc09404c4aa4447d7e898a2183def9cc1b1\"},{\"path\":\"packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg\",\"size\":62926,\"hash\":\"66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa\"},{\"path\":\"packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff\",\"size\":23320,\"hash\":\"22037a3455914e5662fa51a596677bdb329e2c5c\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_logo.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_logo.svg\",\"size\":3723,\"hash\":\"bd19ecdc8eb1084f7bb562c298e4ce41f9cdc698\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_cog.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_cog.svg\",\"size\":987,\"hash\":\"6e74acfffcbd2bafdc8a95d9db7762ece07b1e81\"},{\"path\":\"packages/velocity_html-reporter/lib/icon-time.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/icon-time.png\",\"size\":2834,\"hash\":\"868f492022a4dab0f1522de6aae0773531bc6e85\"}],\"version\":\"5a42ed3e4abb3751c0d1000e310cdfc464c9a1cb\"}"
                 },
                 "type": {
                   "type": "constant",
@@ -9415,6 +9853,14 @@ var packageMetadata = {
         },
         "validPid": {
           "type": "function"
+        },
+        "refreshableAssets": {
+          "type": "object",
+          "members": {
+            "allCss": {
+              "type": "array"
+            }
+          }
         }
       }
     }
@@ -9988,12 +10434,6 @@ var packageMetadata = {
                 },
                 "deny": {
                   "type": "function"
-                },
-                "attachSchema": {
-                  "type": "function"
-                },
-                "simpleSchema": {
-                  "type": "function"
                 }
               }
             }
@@ -10014,11 +10454,11 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "249354455b6db7f1ae85363921de5cc67b1ddafd"
+          "value": "q9p5HmZJkxS3hYbWM"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
-          "value": "c07bad76d93ab898184d36c472307196767c5867"
+          "value": "0fc3717bb173da27a42cd4ed9ad616d637ec7f37"
         },
         "autoupdateVersionCordova": {
           "type": "constant",
@@ -10060,9 +10500,7 @@ var packageMetadata = {
       }
     }
   },
-  "mizzao:bootstrap-3": {},
   "particle4dev:sass": {},
-  "mrt:font-awesome-sass": {},
   "percolatestudio:synced-cron": {
     "SyncedCron": {
       "type": "object",
@@ -10098,328 +10536,6 @@ var packageMetadata = {
       }
     }
   },
-  "velocity:core": {
-    "Velocity": {
-      "type": "object",
-      "members": {
-        "getMirrorPath": {
-          "type": "function"
-        },
-        "getTestsPath": {
-          "type": "function"
-        },
-        "addPreProcessor": {
-          "type": "function"
-        },
-        "addPostProcessor": {
-          "type": "function"
-        },
-        "getReportGithubIssueMessage": {
-          "type": "function"
-        },
-        "registerTestingFramework": {
-          "type": "function"
-        },
-        "parseXmlFiles": {
-          "type": "function"
-        },
-        "FileCopier": {
-          "type": "function",
-          "members": {
-            "prototype": {
-              "type": "object",
-              "members": {
-                "start": {
-                  "type": "function"
-                },
-                "stop": {
-                  "type": "function"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "VelocityTestFiles": {
-      "type": "object",
-      "members": {
-        "find": {
-          "type": "function"
-        },
-        "findOne": {
-          "type": "function"
-        },
-        "insert": {
-          "type": "function"
-        },
-        "update": {
-          "type": "function"
-        },
-        "remove": {
-          "type": "function"
-        },
-        "upsert": {
-          "type": "function"
-        },
-        "allow": {
-          "type": "function"
-        },
-        "deny": {
-          "type": "function"
-        },
-        "attachSchema": {
-          "type": "function"
-        },
-        "simpleSchema": {
-          "type": "function"
-        }
-      }
-    },
-    "VelocityFixtureFiles": {
-      "type": "object",
-      "members": {
-        "find": {
-          "type": "function"
-        },
-        "findOne": {
-          "type": "function"
-        },
-        "insert": {
-          "type": "function"
-        },
-        "update": {
-          "type": "function"
-        },
-        "remove": {
-          "type": "function"
-        },
-        "upsert": {
-          "type": "function"
-        },
-        "allow": {
-          "type": "function"
-        },
-        "deny": {
-          "type": "function"
-        },
-        "attachSchema": {
-          "type": "function"
-        },
-        "simpleSchema": {
-          "type": "function"
-        }
-      }
-    },
-    "VelocityTestReports": {
-      "type": "object",
-      "members": {
-        "find": {
-          "type": "function"
-        },
-        "findOne": {
-          "type": "function"
-        },
-        "insert": {
-          "type": "function"
-        },
-        "update": {
-          "type": "function"
-        },
-        "remove": {
-          "type": "function"
-        },
-        "upsert": {
-          "type": "function"
-        },
-        "allow": {
-          "type": "function"
-        },
-        "deny": {
-          "type": "function"
-        },
-        "attachSchema": {
-          "type": "function"
-        },
-        "simpleSchema": {
-          "type": "function"
-        }
-      }
-    },
-    "VelocityAggregateReports": {
-      "type": "object",
-      "members": {
-        "find": {
-          "type": "function"
-        },
-        "findOne": {
-          "type": "function"
-        },
-        "insert": {
-          "type": "function"
-        },
-        "update": {
-          "type": "function"
-        },
-        "remove": {
-          "type": "function"
-        },
-        "upsert": {
-          "type": "function"
-        },
-        "allow": {
-          "type": "function"
-        },
-        "deny": {
-          "type": "function"
-        },
-        "attachSchema": {
-          "type": "function"
-        },
-        "simpleSchema": {
-          "type": "function"
-        }
-      }
-    },
-    "VelocityLogs": {
-      "type": "object",
-      "members": {
-        "find": {
-          "type": "function"
-        },
-        "findOne": {
-          "type": "function"
-        },
-        "insert": {
-          "type": "function"
-        },
-        "update": {
-          "type": "function"
-        },
-        "remove": {
-          "type": "function"
-        },
-        "upsert": {
-          "type": "function"
-        },
-        "allow": {
-          "type": "function"
-        },
-        "deny": {
-          "type": "function"
-        },
-        "attachSchema": {
-          "type": "function"
-        },
-        "simpleSchema": {
-          "type": "function"
-        }
-      }
-    },
-    "VelocityMirrors": {
-      "type": "object",
-      "members": {
-        "find": {
-          "type": "function"
-        },
-        "findOne": {
-          "type": "function"
-        },
-        "insert": {
-          "type": "function"
-        },
-        "update": {
-          "type": "function"
-        },
-        "remove": {
-          "type": "function"
-        },
-        "upsert": {
-          "type": "function"
-        },
-        "allow": {
-          "type": "function"
-        },
-        "deny": {
-          "type": "function"
-        },
-        "attachSchema": {
-          "type": "function"
-        },
-        "simpleSchema": {
-          "type": "function"
-        }
-      }
-    }
-  },
-  "alanning:package-stubber": {
-    "PackageStubber": {
-      "type": "object",
-      "members": {
-        "functionReplacementStr": {
-          "type": "constant",
-          "value": "function emptyFn () {}"
-        },
-        "validate": {
-          "type": "object",
-          "members": {
-            "stubPackages": {
-              "type": "function"
-            },
-            "deepCopyReplaceFn": {
-              "type": "function"
-            }
-          }
-        },
-        "stubPackages": {
-          "type": "function"
-        },
-        "listTestPackages": {
-          "type": "function"
-        },
-        "listPackages": {
-          "type": "function"
-        },
-        "listPackageExports": {
-          "type": "function"
-        },
-        "deepCopyReplaceFn": {
-          "type": "function"
-        },
-        "shouldIgnorePackage": {
-          "type": "function"
-        },
-        "replaceFnPlaceholders": {
-          "type": "function"
-        },
-        "stubGenerators": {
-          "type": "object",
-          "members": {
-            "function": {
-              "type": "function"
-            },
-            "object": {
-              "type": "function"
-            },
-            "string": {
-              "type": "function"
-            },
-            "number": {
-              "type": "function"
-            },
-            "undefined": {
-              "type": "function"
-            }
-          }
-        },
-        "generateStubJsCode": {
-          "type": "function"
-        }
-      }
-    }
-  },
-  "sanjo:jasmine": {},
-  "velocity:html-reporter": {},
   "iron:core": {},
   "iron:dynamic-template": {},
   "iron:layout": {},
@@ -10576,6 +10692,9 @@ var packageMetadata = {
         "plugin": {
           "type": "function"
         },
+        "configureBodyParsers": {
+          "type": "function"
+        },
         "start": {
           "type": "function"
         },
@@ -10644,112 +10763,6 @@ var packageMetadata = {
     }
   },
   "sacha:spin": {},
-  "aldeed:simple-schema": {
-    "SimpleSchema": {
-      "type": "function",
-      "members": {
-        "extendOptions": {
-          "type": "function"
-        },
-        "RegEx": {
-          "type": "object",
-          "members": {
-            "Email": {
-              "type": "regexp"
-            },
-            "Domain": {
-              "type": "regexp"
-            },
-            "WeakDomain": {
-              "type": "regexp"
-            },
-            "IP": {
-              "type": "regexp"
-            },
-            "IPv4": {
-              "type": "regexp"
-            },
-            "IPv6": {
-              "type": "regexp"
-            },
-            "Url": {
-              "type": "regexp"
-            },
-            "Id": {
-              "type": "regexp"
-            }
-          }
-        },
-        "addValidator": {
-          "type": "function"
-        },
-        "messages": {
-          "type": "function"
-        },
-        "prototype": {
-          "type": "object",
-          "members": {
-            "condition": {
-              "type": "function"
-            },
-            "namedContext": {
-              "type": "function"
-            },
-            "validator": {
-              "type": "function",
-              "refID": 21
-            },
-            "addValidator": {
-              "ref": 21
-            },
-            "clean": {
-              "type": "function"
-            },
-            "schema": {
-              "type": "function"
-            },
-            "getDefinition": {
-              "type": "function"
-            },
-            "keyIsInBlackBox": {
-              "type": "function"
-            },
-            "labels": {
-              "type": "function"
-            },
-            "label": {
-              "type": "function"
-            },
-            "messages": {
-              "type": "function"
-            },
-            "messageForError": {
-              "type": "function"
-            },
-            "allowsKey": {
-              "type": "function"
-            },
-            "newContext": {
-              "type": "function"
-            },
-            "objectKeys": {
-              "type": "function"
-            }
-          }
-        }
-      }
-    },
-    "MongoObject": {
-      "type": "function",
-      "members": {
-        "expandKey": {
-          "type": "function"
-        }
-      }
-    }
-  },
-  "mongo-livedata": {},
-  "aldeed:collection2": {},
   "ian:accounts-ui-bootstrap-3": {},
   "npm-bcrypt": {
     "NpmModuleBcrypt": {
@@ -10917,6 +10930,38 @@ var packageMetadata = {
         },
         "createUser": {
           "type": "function"
+        },
+        "loginServiceConfiguration": {
+          "type": "object",
+          "members": {
+            "find": {
+              "type": "function"
+            },
+            "findOne": {
+              "type": "function"
+            },
+            "insert": {
+              "type": "function"
+            },
+            "update": {
+              "type": "function"
+            },
+            "remove": {
+              "type": "function"
+            },
+            "upsert": {
+              "type": "function"
+            },
+            "allow": {
+              "type": "function"
+            },
+            "deny": {
+              "type": "function"
+            }
+          }
+        },
+        "ConfigError": {
+          "type": "function"
         }
       }
     },
@@ -10979,6 +11024,810 @@ var packageMetadata = {
     }
   },
   "accounts-password": {},
+  "natestrauser:font-awesome": {},
+  "mrt:momentjs": {
+    "moment": {
+      "type": "function",
+      "members": {
+        "utc": {
+          "type": "function"
+        },
+        "unix": {
+          "type": "function"
+        },
+        "duration": {
+          "type": "function",
+          "members": {
+            "fn": {
+              "type": "object",
+              "members": {
+                "weeks": {
+                  "type": "function"
+                },
+                "valueOf": {
+                  "type": "function"
+                },
+                "humanize": {
+                  "type": "function"
+                },
+                "add": {
+                  "type": "function"
+                },
+                "subtract": {
+                  "type": "function"
+                },
+                "get": {
+                  "type": "function"
+                },
+                "as": {
+                  "type": "function"
+                },
+                "lang": {
+                  "type": "function",
+                  "refID": 21
+                },
+                "asMilliseconds": {
+                  "type": "function"
+                },
+                "milliseconds": {
+                  "type": "function"
+                },
+                "asSeconds": {
+                  "type": "function"
+                },
+                "seconds": {
+                  "type": "function"
+                },
+                "asMinutes": {
+                  "type": "function"
+                },
+                "minutes": {
+                  "type": "function"
+                },
+                "asHours": {
+                  "type": "function"
+                },
+                "hours": {
+                  "type": "function"
+                },
+                "asDays": {
+                  "type": "function"
+                },
+                "days": {
+                  "type": "function"
+                },
+                "asMonths": {
+                  "type": "function"
+                },
+                "months": {
+                  "type": "function"
+                },
+                "asYears": {
+                  "type": "function"
+                },
+                "years": {
+                  "type": "function"
+                },
+                "asWeeks": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "version": {
+          "type": "constant",
+          "value": "2.0.0"
+        },
+        "defaultFormat": {
+          "type": "constant",
+          "value": "YYYY-MM-DDTHH:mm:ssZ"
+        },
+        "updateOffset": {
+          "type": "function"
+        },
+        "lang": {
+          "type": "function"
+        },
+        "langData": {
+          "type": "function"
+        },
+        "isMoment": {
+          "type": "function"
+        },
+        "isDuration": {
+          "type": "function"
+        },
+        "fn": {
+          "type": "object",
+          "members": {
+            "clone": {
+              "type": "function"
+            },
+            "valueOf": {
+              "type": "function"
+            },
+            "unix": {
+              "type": "function"
+            },
+            "toString": {
+              "type": "function"
+            },
+            "toDate": {
+              "type": "function"
+            },
+            "toISOString": {
+              "type": "function",
+              "refID": 75
+            },
+            "toArray": {
+              "type": "function"
+            },
+            "isValid": {
+              "type": "function"
+            },
+            "utc": {
+              "type": "function"
+            },
+            "local": {
+              "type": "function"
+            },
+            "format": {
+              "type": "function"
+            },
+            "add": {
+              "type": "function"
+            },
+            "subtract": {
+              "type": "function"
+            },
+            "diff": {
+              "type": "function"
+            },
+            "from": {
+              "type": "function"
+            },
+            "fromNow": {
+              "type": "function"
+            },
+            "calendar": {
+              "type": "function"
+            },
+            "isLeapYear": {
+              "type": "function"
+            },
+            "isDST": {
+              "type": "function"
+            },
+            "day": {
+              "type": "function",
+              "refID": 103
+            },
+            "month": {
+              "type": "function",
+              "refID": 105
+            },
+            "startOf": {
+              "type": "function"
+            },
+            "endOf": {
+              "type": "function"
+            },
+            "isAfter": {
+              "type": "function"
+            },
+            "isBefore": {
+              "type": "function"
+            },
+            "isSame": {
+              "type": "function"
+            },
+            "min": {
+              "type": "function"
+            },
+            "max": {
+              "type": "function"
+            },
+            "zone": {
+              "type": "function"
+            },
+            "zoneAbbr": {
+              "type": "function"
+            },
+            "zoneName": {
+              "type": "function"
+            },
+            "daysInMonth": {
+              "type": "function"
+            },
+            "dayOfYear": {
+              "type": "function"
+            },
+            "weekYear": {
+              "type": "function"
+            },
+            "isoWeekYear": {
+              "type": "function"
+            },
+            "week": {
+              "type": "function",
+              "refID": 135
+            },
+            "isoWeek": {
+              "type": "function",
+              "refID": 137
+            },
+            "weekday": {
+              "type": "function"
+            },
+            "isoWeekday": {
+              "type": "function"
+            },
+            "lang": {
+              "ref": 21
+            },
+            "dates": {
+              "type": "function",
+              "refID": 143
+            },
+            "date": {
+              "ref": 143
+            },
+            "hours": {
+              "type": "function",
+              "refID": 145
+            },
+            "hour": {
+              "ref": 145
+            },
+            "minutes": {
+              "type": "function",
+              "refID": 147
+            },
+            "minute": {
+              "ref": 147
+            },
+            "seconds": {
+              "type": "function",
+              "refID": 149
+            },
+            "second": {
+              "ref": 149
+            },
+            "milliseconds": {
+              "type": "function",
+              "refID": 151
+            },
+            "millisecond": {
+              "ref": 151
+            },
+            "years": {
+              "type": "function",
+              "refID": 153
+            },
+            "year": {
+              "ref": 153
+            },
+            "days": {
+              "ref": 103
+            },
+            "months": {
+              "ref": 105
+            },
+            "weeks": {
+              "ref": 135
+            },
+            "isoWeeks": {
+              "ref": 137
+            },
+            "toJSON": {
+              "ref": 75
+            }
+          }
+        }
+      }
+    }
+  },
+  "mquandalle:jade": {},
+  "joshowens:inflectionizer": {},
+  "mizzao:bootstrap-3": {},
+  "chuangbo:marked": {},
+  "practicalmeteor:loglevel": {
+    "loglevel": {
+      "type": "object",
+      "members": {
+        "createLogger": {
+          "type": "function"
+        },
+        "createPackageLogger": {
+          "type": "function"
+        },
+        "createAppLogger": {
+          "type": "function"
+        }
+      }
+    }
+  },
+  "velocity:core": {
+    "Velocity": {
+      "type": "object",
+      "members": {
+        "startup": {
+          "type": "function"
+        },
+        "getAppPath": {
+          "type": "function"
+        },
+        "getTestsPath": {
+          "type": "function"
+        },
+        "postProcessors": {
+          "type": "array"
+        },
+        "addPostProcessor": {
+          "type": "function"
+        },
+        "getReportGithubIssueMessage": {
+          "type": "function"
+        },
+        "registerTestingFramework": {
+          "type": "function"
+        },
+        "onTest": {
+          "type": "function"
+        },
+        "Mirror": {
+          "type": "object",
+          "members": {
+            "start": {
+              "type": "function"
+            }
+          }
+        },
+        "ProxyPackageSync": {
+          "type": "object",
+          "members": {
+            "regeneratePackageJs": {
+              "type": "function"
+            }
+          }
+        }
+      }
+    },
+    "VelocityTestFiles": {
+      "type": "object",
+      "members": {
+        "find": {
+          "type": "function"
+        },
+        "findOne": {
+          "type": "function"
+        },
+        "insert": {
+          "type": "function"
+        },
+        "update": {
+          "type": "function"
+        },
+        "remove": {
+          "type": "function"
+        },
+        "upsert": {
+          "type": "function"
+        },
+        "allow": {
+          "type": "function"
+        },
+        "deny": {
+          "type": "function"
+        }
+      }
+    },
+    "VelocityFixtureFiles": {
+      "type": "object",
+      "members": {
+        "find": {
+          "type": "function"
+        },
+        "findOne": {
+          "type": "function"
+        },
+        "insert": {
+          "type": "function"
+        },
+        "update": {
+          "type": "function"
+        },
+        "remove": {
+          "type": "function"
+        },
+        "upsert": {
+          "type": "function"
+        },
+        "allow": {
+          "type": "function"
+        },
+        "deny": {
+          "type": "function"
+        }
+      }
+    },
+    "VelocityTestReports": {
+      "type": "object",
+      "members": {
+        "find": {
+          "type": "function"
+        },
+        "findOne": {
+          "type": "function"
+        },
+        "insert": {
+          "type": "function"
+        },
+        "update": {
+          "type": "function"
+        },
+        "remove": {
+          "type": "function"
+        },
+        "upsert": {
+          "type": "function"
+        },
+        "allow": {
+          "type": "function"
+        },
+        "deny": {
+          "type": "function"
+        }
+      }
+    },
+    "VelocityAggregateReports": {
+      "type": "object",
+      "members": {
+        "find": {
+          "type": "function"
+        },
+        "findOne": {
+          "type": "function"
+        },
+        "insert": {
+          "type": "function"
+        },
+        "update": {
+          "type": "function"
+        },
+        "remove": {
+          "type": "function"
+        },
+        "upsert": {
+          "type": "function"
+        },
+        "allow": {
+          "type": "function"
+        },
+        "deny": {
+          "type": "function"
+        }
+      }
+    },
+    "VelocityLogs": {
+      "type": "object",
+      "members": {
+        "find": {
+          "type": "function"
+        },
+        "findOne": {
+          "type": "function"
+        },
+        "insert": {
+          "type": "function"
+        },
+        "update": {
+          "type": "function"
+        },
+        "remove": {
+          "type": "function"
+        },
+        "upsert": {
+          "type": "function"
+        },
+        "allow": {
+          "type": "function"
+        },
+        "deny": {
+          "type": "function"
+        }
+      }
+    },
+    "VelocityMirrors": {
+      "type": "object",
+      "members": {
+        "find": {
+          "type": "function"
+        },
+        "findOne": {
+          "type": "function"
+        },
+        "insert": {
+          "type": "function"
+        },
+        "update": {
+          "type": "function"
+        },
+        "remove": {
+          "type": "function"
+        },
+        "upsert": {
+          "type": "function"
+        },
+        "allow": {
+          "type": "function"
+        },
+        "deny": {
+          "type": "function"
+        }
+      }
+    }
+  },
+  "velocity:shim": {},
+  "velocity:meteor-stubs": {
+    "MeteorStubs": {
+      "type": "object",
+      "members": {
+        "install": {
+          "type": "function"
+        },
+        "uninstall": {
+          "type": "function"
+        }
+      }
+    }
+  },
+  "alanning:package-stubber": {
+    "PackageStubber": {
+      "type": "object",
+      "members": {
+        "functionReplacementStr": {
+          "type": "constant",
+          "value": "function emptyFn () {}"
+        },
+        "validate": {
+          "type": "object",
+          "members": {
+            "stubPackages": {
+              "type": "function"
+            },
+            "deepCopyReplaceFn": {
+              "type": "function"
+            }
+          }
+        },
+        "stubPackages": {
+          "type": "function"
+        },
+        "listTestPackages": {
+          "type": "function"
+        },
+        "listPackages": {
+          "type": "function"
+        },
+        "listPackageExports": {
+          "type": "function"
+        },
+        "deepCopyReplaceFn": {
+          "type": "function"
+        },
+        "shouldIgnorePackage": {
+          "type": "function"
+        },
+        "replaceFnPlaceholders": {
+          "type": "function"
+        },
+        "stubGenerators": {
+          "type": "object",
+          "members": {
+            "function": {
+              "type": "function"
+            },
+            "object": {
+              "type": "function"
+            },
+            "string": {
+              "type": "function"
+            },
+            "number": {
+              "type": "function"
+            },
+            "undefined": {
+              "type": "function"
+            }
+          }
+        },
+        "generateStubJsCode": {
+          "type": "function"
+        }
+      }
+    }
+  },
+  "sanjo:karma": {
+    "Karma": {
+      "type": "object",
+      "members": {
+        "start": {
+          "type": "function"
+        },
+        "setConfig": {
+          "type": "function"
+        }
+      }
+    },
+    "KarmaInternals": {
+      "type": "object",
+      "members": {
+        "karmaChilds": {
+          "type": "object",
+          "members": {
+            "jasmine-client-unit": {
+              "type": "object",
+              "members": {
+                "taskName": {
+                  "type": "constant",
+                  "value": "jasmine-client-unit"
+                },
+                "appPath": {
+                  "type": "constant",
+                  "value": "/Users/sxross/meteor/test-supercharger"
+                },
+                "pid": {
+                  "type": "constant",
+                  "value": 36565
+                },
+                "fout": {
+                  "type": "constant",
+                  "value": 35
+                },
+                "child": {
+                  "type": "object",
+                  "members": {
+                    "domain": {
+                      "type": "null",
+                      "value": null
+                    },
+                    "signalCode": {
+                      "type": "null",
+                      "value": null
+                    },
+                    "exitCode": {
+                      "type": "null",
+                      "value": null
+                    },
+                    "pid": {
+                      "type": "constant",
+                      "value": 36565
+                    },
+                    "stdin": {
+                      "type": "null",
+                      "value": null
+                    },
+                    "stdout": {
+                      "type": "null",
+                      "value": null
+                    },
+                    "stderr": {
+                      "type": "null",
+                      "value": null
+                    },
+                    "stdio": {
+                      "type": "array"
+                    },
+                    "spawn": {
+                      "type": "function"
+                    },
+                    "kill": {
+                      "type": "function"
+                    },
+                    "ref": {
+                      "type": "function"
+                    },
+                    "unref": {
+                      "type": "function"
+                    },
+                    "setMaxListeners": {
+                      "type": "function"
+                    },
+                    "emit": {
+                      "type": "function"
+                    },
+                    "addListener": {
+                      "type": "function",
+                      "refID": 17
+                    },
+                    "on": {
+                      "ref": 17
+                    },
+                    "once": {
+                      "type": "function"
+                    },
+                    "removeListener": {
+                      "type": "function"
+                    },
+                    "removeAllListeners": {
+                      "type": "function"
+                    },
+                    "listeners": {
+                      "type": "function"
+                    }
+                  }
+                },
+                "getTaskName": {
+                  "type": "function"
+                },
+                "getChild": {
+                  "type": "function"
+                },
+                "getPid": {
+                  "type": "function"
+                },
+                "isDead": {
+                  "type": "function"
+                },
+                "isRunning": {
+                  "type": "function"
+                },
+                "readPid": {
+                  "type": "function"
+                },
+                "spawn": {
+                  "type": "function"
+                },
+                "kill": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "getKarmaChild": {
+          "type": "function"
+        },
+        "setKarmaChild": {
+          "type": "function"
+        },
+        "startKarmaServer": {
+          "type": "function"
+        },
+        "writeKarmaConfig": {
+          "type": "function"
+        },
+        "generateKarmaConfig": {
+          "type": "function"
+        },
+        "readKarmaConfig": {
+          "type": "function"
+        },
+        "getConfigPath": {
+          "type": "function"
+        },
+        "getAppPath": {
+          "type": "function"
+        },
+        "getKarmaPath": {
+          "type": "function"
+        }
+      }
+    }
+  },
+  "sanjo:jasmine": {
+    "Jasmine": {
+      "type": "object",
+      "members": {
+        "onTest": {
+          "type": "function"
+        }
+      }
+    }
+  },
+  "velocity:html-reporter": {},
   "session": {},
   "livedata": {
     "DDP": {
@@ -11079,12 +11928,6 @@ var packageMetadata = {
             },
             "deny": {
               "type": "function"
-            },
-            "attachSchema": {
-              "type": "function"
-            },
-            "simpleSchema": {
-              "type": "function"
             }
           }
         },
@@ -11093,7 +11936,9 @@ var packageMetadata = {
         }
       }
     }
-  }
+  },
+  "velocity:test-proxy": {},
+  "velocity:node-soft-mirror": {}
 }
 var globalContext = (typeof global !== 'undefined') ? global : window
 var originalContext = []

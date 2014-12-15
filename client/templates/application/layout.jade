@@ -6,7 +6,7 @@ template(name="layout")
   body
     .navbar.navbar-default.navbar-fixed-top(role="navigation")
       .navbar-header
-        a.navbar-brand(href='/') 
+        a.navbar-brand(href='/')
           i.fa.fa-home.fa-lg
         button.navbar-toggle.collapsed(type="button" data-toggle="collapse" data-target=".navbar-collapse")
           span.sr-only Toggle navigation
@@ -22,19 +22,24 @@ template(name="layout")
           +search
           li.static
             |v{{version}}
-              
+
         ul.nav.navbar-nav.navbar-right
           +loginButtons
           li &nbsp;
-          
+
     .container
+      +search_bar
       +yield
-      
+
 template(name="updates")
   |updated #{updated_at} by #{updated_by}
 
 template(name="search")
-  li.inactive#search
-    input(type="search")
-    i.static.fa.fa-search.fa-lg
-        
+  li.static(style="padding:0;")
+    a#toggle-search(href="#" style="padding:0;margin:0")
+      i.fa.fa-search.fa-lg
+
+template(name="search_bar")
+  .row#search_row(style="display:none;")
+    |Type your search:
+    input#search(type="search")
