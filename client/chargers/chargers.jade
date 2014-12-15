@@ -1,10 +1,23 @@
 template(name="chargers")
-  .row
-    .col-xs-12
-      |There are #{charger_count} open superchargers.
-  each list
+  if empty
+    +no_chargers
+  else
     .row
-      +charger
-  +if moreResults
-    .row#showMoreResults(style="margin-left: 25px;")
-      span.loading Loading...
+      .col-xs-12
+        |There are #{charger_count} open superchargers.
+    each list
+      .row
+        +charger
+    +if moreResults
+      .row#showMoreResults(style="margin-left: 25px;")
+        span.loading Loading...
+
+template(name="no_chargers")
+  .jumbotron
+    h2 
+      |I don't see any superchargers.
+      if userId
+        |That's because something is terribly wrong.
+      else
+        |That's because you aren't logged in.
+      

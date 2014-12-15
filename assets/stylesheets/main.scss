@@ -3,6 +3,21 @@ body {
   color: #eee;
 }
 
+.header {
+  letter-spacing: .3em;
+  text-transform: uppercase;
+}
+
+h2 {
+  @extend .header;
+  font-size: 115%;
+}
+
+h3 {
+  @extend .header;
+  font-size: 100%;
+}
+
 .separator {
   // border-bottom: 1px dotted black;
   margin-bottom: .5em;
@@ -73,4 +88,8 @@ body {
 
 .navbar.navbar-default.navbar-fixed-top {
   opacity: 85%;
+}
+
+.jumbotron {
+  color: #555;
 }

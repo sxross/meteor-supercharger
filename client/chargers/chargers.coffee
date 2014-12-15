@@ -17,6 +17,9 @@ Template.chargers.helpers
   charger_count: ->
     return Chargers.find({}).count()
 
+  empty: ->
+    Chargers.find({}).count() is 0
+
 # More results placeholder for infinite scroll
   moreResults: ->
     search_query = Session.get('search_query')

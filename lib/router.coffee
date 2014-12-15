@@ -2,11 +2,11 @@ Router.configure
   layoutTemplate: "layout"
   loadingTemplate: "loading"
   notFoundTemplate: "notFound"
-  waitOn: ->
-    Meteor.subscribe "open-chargers"
-    Meteor.subscribe "updates"
 
 Router.route "/",
+  waitOn: ->
+    Meteor.subscribe "open_chargers"
+    Meteor.subscribe "updates"
   name: "chargers"
 
 Router.route "/about",

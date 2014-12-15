@@ -12,18 +12,28 @@ Meteor.methods
     else
       Updates.insert({updated_at: Date.now(), updated_by: Meteor.user()?.username})
 
-  increment_tesla_count: (doc, direction) ->
-    # Limit new value to be <= number of available spaces which is defined
-    # as number of stalls minus those offline or ICEd
+  _doc_check: (doc, direction) ->
     check(doc, Object)
     check(direction, Number)
 
-    if Meteor.user()
-      new_value = Math.max(
-        Math.min(
-          doc.teslaCount + direction, doc.stallCount - doc.iceCount - doc.offlineCount
-          ),
-        0)
+  _is_valid_user: ->
+    Meteor.user()
+
+  increment_tesla_count: (doc, direction) ->
+    # Limit new value to be <= number of available spaces which is defined
+    # as number of stalls minus those offline or ICEd
+    Meteor.call '_doc_check', doc, direction
+
+    if Meteor.call('_is_valid_user')
+      new_value = bounded_value(doc.teslaCount + direction,
+        lower: 0
+        upper: doc.stallCount - doc.iceCount - doc.offlineCount
+        )
+      # new_value = Math.max(
+      #   Math.min(
+      #     doc.teslaCount + direction, doc.stallCount - doc.iceCount - doc.offlineCount
+      #     ),
+      #   0)
       Chargers.update({_id: doc._id}, {$set: {teslaCount: new_value}})
       Meteor.call('set_update_info')
     else
@@ -31,30 +41,27 @@ Meteor.methods
 
   # Limit new value to be >= 0
   increment_line_count: (doc, direction) ->
-    check(doc, Object)
-    check(direction, Number)
+    Meteor.call '_doc_check', doc, direction
 
-    if Meteor.user()
-      new_value = Math.max(doc.lineCount + direction, 0)
+    if Meteor.call('_is_valid_user')
+      new_value = bounded_value(doc.lineCount + direction, lower: 0)
       Chargers.update({_id: doc._id}, {$set: {lineCount: new_value}})
       Meteor.call('set_update_info')
 
   # Limit new value to positive numbers <= stalls avaliable - teslas there
   increment_ice_count: (doc, direction) ->
-    check(doc, Object)
-    check(direction, Number)
+    Meteor.call '_doc_check', doc, direction
 
-    if Meteor.user()
-      new_value = Math.min(Math.max(doc.iceCount + direction, 0), doc.stallCount - doc.teslaCount)
+    if Meteor.call('_is_valid_user')
+      new_value = bounded_value doc.iceCount + direction, lower: 0, upper: doc.stallCount - doc.teslaCount
       Chargers.update({_id: doc._id}, {$set: {iceCount: new_value}})
       Meteor.call('set_update_info')
 
   # Limit new value to positive numbers <= stalls avaliable - teslas there
   increment_offline_count: (doc, direction) ->
-    check(doc, Object)
-    check(direction, Number)
+    Meteor.call '_doc_check', doc, direction
 
-    if Meteor.user()
-      new_value = Math.min(Math.max(doc.offlineCount + direction, 0), doc.stallCount - doc.teslaCount)
+    if Meteor.call('_is_valid_user')
+      new_value = bounded_value doc.offlineCount + direction, lower: 0, upper: doc.stallCount - doc.teslaCount
       Chargers.update({_id: doc._id}, {$set: {offlineCount: new_value}})
       Meteor.call('set_update_info')
