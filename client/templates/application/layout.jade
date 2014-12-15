@@ -20,6 +20,9 @@ template(name="layout")
           li.inactive
             a(href="{{pathFor 'about'}}") About
           +search
+          li.static
+            |v{{version}}
+              
         ul.nav.navbar-nav.navbar-right
           +loginButtons
           li &nbsp;
@@ -31,7 +34,7 @@ template(name="updates")
   |updated #{updated_at} by #{updated_by}
 
 template(name="search")
-  li#search
+  li.inactive#search
     input(type="search")
     i.static.fa.fa-search.fa-lg
         
