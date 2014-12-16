@@ -16,3 +16,10 @@ Template.updates.helpers
       u.updated_by
     else
       'nobody'
+
+  update_class: ->
+    console.log "update class = #{Router.current().url.match /about/}"
+    if Router.current().url.match /about/
+      'updates-hidden'
+    else
+      'updates-visible'

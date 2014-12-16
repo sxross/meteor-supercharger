@@ -93,3 +93,11 @@ body {
 .jumbotron {
   color: #555;
 }
+
+#updates.updates-visible {
+  display: inline;
+}
+
+#updates.updates-hidden {
+  display: none;
+}

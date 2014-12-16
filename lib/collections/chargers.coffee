@@ -29,11 +29,6 @@ Meteor.methods
         lower: 0
         upper: doc.stallCount - doc.iceCount - doc.offlineCount
         )
-      # new_value = Math.max(
-      #   Math.min(
-      #     doc.teslaCount + direction, doc.stallCount - doc.iceCount - doc.offlineCount
-      #     ),
-      #   0)
       Chargers.update({_id: doc._id}, {$set: {teslaCount: new_value}})
       Meteor.call('set_update_info')
     else
@@ -47,6 +42,8 @@ Meteor.methods
       new_value = bounded_value(doc.lineCount + direction, lower: 0)
       Chargers.update({_id: doc._id}, {$set: {lineCount: new_value}})
       Meteor.call('set_update_info')
+    else
+      throw new Meteor.Error 'You must be logged in to change count.'
 
   # Limit new value to positive numbers <= stalls avaliable - teslas there
   increment_ice_count: (doc, direction) ->
@@ -56,6 +53,8 @@ Meteor.methods
       new_value = bounded_value doc.iceCount + direction, lower: 0, upper: doc.stallCount - doc.teslaCount
       Chargers.update({_id: doc._id}, {$set: {iceCount: new_value}})
       Meteor.call('set_update_info')
+    else
+      throw new Meteor.Error 'You must be logged in to change count.'
 
   # Limit new value to positive numbers <= stalls avaliable - teslas there
   increment_offline_count: (doc, direction) ->
@@ -65,3 +64,5 @@ Meteor.methods
       new_value = bounded_value doc.offlineCount + direction, lower: 0, upper: doc.stallCount - doc.teslaCount
       Chargers.update({_id: doc._id}, {$set: {offlineCount: new_value}})
       Meteor.call('set_update_info')
+    else
+      throw new Meteor.Error 'You must be logged in to change count.'
