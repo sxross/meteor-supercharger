@@ -8,9 +8,36 @@ Router.route "/",
     Meteor.subscribe "open_chargers"
     Meteor.subscribe "updates"
   name: "chargers"
+  # onBeforeAction: (pause) ->
+  #   console.log "before action route name is #{@route.getName()}"
+  #   routeName = @route.getName()
+
+  #   # don't try to log into logged in routes
+  #   return if _.include(['login'], routeName)
+
+  #   Router.go('/login')
+
+    # unless Meteor.userId()
+    #   @setLayout("newLayout")
+    #   @render('login')
+
+    #   # if you have named yields it the login form
+    #   @render('loginForm', {to:"formRegion"});
+
+    #   # and finally call the pause() to prevent further actions from running
+    #   pause();
+    # else
+    #   @setLayout(@lookupLayoutTemplate())
 
 Router.route "/about",
   name: "about"
+
+Router.route "/changelog",
+  name: "changelog"
+
+# Router.route "login",
+#   name: "login"
+#   layoutTemplate: "loginTemplate"
 
 # Router.route "/posts/:_id",
 #   name: "postPage"
@@ -24,16 +51,6 @@ Router.route "/about",
 
 # Router.route "/submit",
 #   name: "postSubmit"
-
-@requireLogin = ->
-  unless Meteor.user()
-    if Meteor.loggingIn()
-      @render @loadingTemplate
-    else
-      @render "accessDenied"
-  else
-    @next()
-  return
 
 # Router.onBeforeAction "dataNotFound",
 #   only: "postPage"

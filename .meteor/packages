@@ -10,7 +10,6 @@ particle4dev:sass
 percolatestudio:synced-cron
 iron:router
 sacha:spin
-ian:accounts-ui-bootstrap-3
 accounts-password
 natestrauser:font-awesome
 mrt:momentjs
@@ -19,3 +18,4 @@ joshowens:inflectionizer
 mizzao:bootstrap-3
 chuangbo:marked
 houston:admin
+steeve:single-page-login
