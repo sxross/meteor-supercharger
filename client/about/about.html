@@ -2,30 +2,38 @@
   <div class="row">
     <div class="col-md-12">
       <div class="page-header">
-        <h1>ALPHA VERSION {{version}}
-          <small>It's Free!</small>
-        </h1>
+        <h1>ALPHA VERSION {{version}}</h1>
       </div>
     </div>
   </div>
 
   {{#markdown}}
-  This version of the Tesla Superchargers Web app is completely free. The
+  This version of the Tesla Superchargers Web app is in alpha test. The
   only thing we ask of you is that you use it. Your using it relays important
   information to your fellow Tesla owners and they can better plan their
+  charging stay.
 
-  ## What Do You Do?
+  If you are unfamiliar with alpha and beta testing, they work like this:
+  They are both pre-releases without some of the features fully formed. As
+  a result, there may be bugs and inconsistencies. That's what the alpha
+  and beta test periods are for.
+
+  In this specific case, the alpha test is to find out how the Tesla
+  community reacts to this app as a tool and tune it to serve everyone's
+  needs. Beta test will be more of a bug finding period.
+
+  ## What Do We Want You Do?
 
   When you get to a Supercharger, count the cars, compare them to what's up
   in the App and adjust it accordingly. Thus, your fellow drivers up the
   road will know what to expect.
 
-  ## What Does the App Do (partial feature list)?
+  ## partial feature list?
 
-  It lets you take a pre-populated list of Superchargers, and choose the
-  one you want. You can then view a couple of unique statistics about the
-  charger. Basically, how many cars are there as of the last time some
-  honest user of this app visited.
+  The Tesla Supercharger app lets you take a pre-populated list of
+  Superchargers, and choose the one you want. You can then view a
+  couple of unique statistics about the charger. Basically, how many
+  cars are there as of the last time some honest user of this app visited.
 
   In no particular order, here is the current feature list:
 
@@ -44,21 +52,33 @@
   location pin will mark the charger. You can get driving directions
   from there.
 
-  ## FAQ
+## FAQ
 
   ### Why do I need to log in?
 
-  Only because it's preferable not to have bots partying on
-  this kind of app. We don't know who you are. We don't track where you've been.
+  Several reasons:
+
+  * It's impossible to allow customizations for each user if you
+    don't create a username.
+
+  * It's preferable not to have bots partying on this kind of app.
+
+  We don't know who you are. We don't track where you've been.
   Nothing private is required other than your email, which we don't associate with
-  your locations. Privacy is important to us, so we ask as little as possible.
+  your locations. Privacy is important to us, so we ask your for as little as possible.
 
   What that means is that if you don't sign up, you can look, but you can't
   play. I.e., you can view, but can't change the counts of various aspects
-  of the Superchargers
+  of the Superchargers. You also can't customize the app to show only the
+  chargers you are interested in. More features requiring login will be
+  in future releases.
 
-  ### Feature List
-
+  A personal note on creating accounts. I have as many different accounts as
+  pretty much anyone with a whole slew of sites. I hate giving out personal
+  information and immediately suspect any site that asks for these "magic
+  cookies". While in alpha, feel free to **make up an email that does not
+  have a valid TLD, so for example: me@domain.bogus**. We will allow you in
+  during this period without the email verification of your user account.
 
   {{/markdown}}
 </template>
