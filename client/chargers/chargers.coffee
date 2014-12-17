@@ -1,5 +1,5 @@
 # Autorun subscription for infinite scroll
-ITEMS_INCREMENT = 5
+ITEMS_INCREMENT = 50
 Session.setDefault "itemsLimit", ITEMS_INCREMENT
 Deps.autorun ->
   Meteor.subscribe "open_chargers", Session.get("itemsLimit")
