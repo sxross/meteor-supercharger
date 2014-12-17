@@ -8,6 +8,14 @@ body {
   text-transform: uppercase;
 }
 
+@media(max-width:767px){
+  // For mobile devices, less spacing
+  .header {
+    letter-spacing: .15em;
+    text-transform: uppercase;
+  }
+}
+
 h2 {
   @extend .header;
   font-size: 115%;
@@ -100,4 +108,26 @@ body {
 
 #updates.updates-hidden {
   display: none;
+}
+
+
+
+
+@media(max-width:767px){
+  .navbar.navbar-default.navbar-fixed-top {
+    margin-bottom:0;
+    max-width: 100%
+  }
+}
+
+#search-row {
+  margin-top: 0;
+  border: 0;
+  width: 100%;
+}
+
+#search {
+  margin-top: 0;
+  width: 100%;
+  text-align: center;
 }
