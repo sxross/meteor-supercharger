@@ -25,13 +25,23 @@ template(name="header")
       +updates
       li.inactive
         a(href="{{pathFor 'about'}}") About
-      +search
+      li.inactive
+        if currentUser
+          a(href="{{pathFor 'logout'}}") Logout
+        else
+          a(href="{{pathFor 'login'}}") Login
+      li.inactive
+        a(href="{{pathFor 'changelog'}}") Change Log
+      //
+        +search
       li.static
         |v{{version}}
 
     ul.nav.navbar-nav.navbar-right
-      +loginButtons
-      li &nbsp;
+      //
+        +loginButtons
+      //
+        li &nbsp;
 
 template(name="updates")
   li#updates.static(class="{{update_class}}")
@@ -43,6 +53,6 @@ template(name="search")
       i.fa.fa-search.fa-lg
 
 template(name="search_bar")
-  .row#search_row(style="display:none;")
-    |Type your search:
-    input#search(type="search" style="color:black;")
+  +if isChargerPage
+    .row#search_row
+      input#search(type="search" style="color:black;" placeholder="type your search")
