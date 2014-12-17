@@ -1,0 +1,27 @@
+<template name="changelog">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="page-header">
+        <h1>CHANGE LOG {{version}}</h1>
+      </div>
+    </div>
+  </div>
+  {{#markdown}}
+Media-responsive classes
+Better breadcrumbs
+Conditional menu items
+
+Made download chunks 50 chargers instead of 5
+TODO: Make this user-settable
+
+Fixed failure to collapse menu on mobile devices
+
+Removed pain-points from initial view
+- Search bar now persistent on all devices
+- Menu items don't disappear or get wonky on mobile
+- Login moved to its own page instead of dropdown
+
+Helper to suppress search on all but charger page
+
+  {{/markdown}}
+</template>
