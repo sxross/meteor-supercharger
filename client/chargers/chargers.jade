@@ -8,9 +8,10 @@ template(name="chargers")
     each list
       .row
         +charger
-    +if moreResults
-      .row#showMoreResults(style="margin-left: 25px;")
-        span.loading Loading...
+    //
+      +if moreResults
+        .row#showMoreResults(style="margin-left: 25px;")
+          span.loading Loading...
 
 template(name="no_chargers")
   .jumbotron

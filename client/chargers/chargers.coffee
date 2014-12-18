@@ -1,17 +1,19 @@
 # Autorun subscription for infinite scroll
-ITEMS_INCREMENT = 50
-Session.setDefault "itemsLimit", ITEMS_INCREMENT
-Deps.autorun ->
-  Meteor.subscribe "open_chargers", Session.get("itemsLimit")
-  return
+# ITEMS_INCREMENT = 50
+# Session.setDefault "itemsLimit", ITEMS_INCREMENT
+# Deps.autorun ->
+#   Meteor.subscribe "open_chargers", Session.get("itemsLimit")
+#   return
 
 Template.chargers.helpers
   list: ->
     search_query = Session.get('search_query')
     if search_query
-      return Chargers.find({name: new RegExp(".*#{search_query}.*", "i")}, {limit: Session.get("itemsLimit")})
+      return Chargers.find({name: new RegExp(".*#{search_query}.*", "i")})
+      return Chargers.find({name: new RegExp(".*#{search_query}.*", "i")})
     else
-      return Chargers.find({}, {limit: Session.get("itemsLimit")})
+      # return Chargers.find({}, {limit: Session.get("itemsLimit")})
+      return Chargers.find({})
 
   charger_count: ->
     return Chargers.find({}).count()
@@ -42,4 +44,4 @@ showMoreVisible = ->
   return
 
 # run the above func every time the user scrolls
-$(window).scroll showMoreVisible
+# $(window).scroll showMoreVisible
