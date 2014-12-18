@@ -7,7 +7,6 @@ Deps.autorun ->
 
 Template.chargers.helpers
   list: ->
-    console.log 'rerunning list'
     search_query = Session.get('search_query')
     if search_query
       return Chargers.find({name: new RegExp(".*#{search_query}.*", "i")}, {limit: Session.get("itemsLimit")})
@@ -34,7 +33,7 @@ showMoreVisible = ->
   target = $("#showMoreResults")
   return unless target.length
   threshold = $(window).scrollTop() + $(window).height() - target.height()
-  if target.offset().top < threshold
+  if target.offset().top <= threshold
     unless target.data("visible")
       target.data "visible", true
       Session.set "itemsLimit", Session.get("itemsLimit") + ITEMS_INCREMENT
