@@ -1,0 +1,32 @@
+template(name="settings")
+  h2 Customize Your View
+  h3 Currently Viewing {{pluralize charger_count "charger"}}
+  .row
+    .col-xs-12.location-container
+      #countries
+        +countries
+      #states
+        +states
+          
+template(name="states")
+  #state-header 
+    | States
+    button.btn-link.btn-xs#state-button
+      i.fa.fa-angle-double-down.fa-lg
+  ul.list-unstyled#state-list(style="display:none;")
+    each list
+      li
+        input.state(type="checkbox" value="{{state}}")
+        |{{state}}
+    
+template(name="countries")
+  #country-header 
+    | Countries
+    button.btn-link.btn-xs#country-button
+      i.fa.fa-angle-double-down.fa-lg
+  ul.list-unstyled#country-list(style="display:none;")
+    each list
+      li
+        input.country(type="checkbox" value="{{country}}")
+        | {{country}}
+          
