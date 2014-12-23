@@ -110,9 +110,6 @@ body {
   display: none;
 }
 
-
-
-
 @media(max-width:767px){
   .navbar.navbar-default.navbar-fixed-top {
     margin-bottom:0;
@@ -130,4 +127,18 @@ body {
   margin-top: 0;
   width: 100%;
   text-align: center;
+}
+
+#country-header, #state-header {
+  background-color: #222;
+  width: 100%;
+  padding-left: 1em;
+}
+
+#countries > ul, #states > ul {
+  padding: 1em;
+}
+
+.location-container {
+  padding: 0;
 }
