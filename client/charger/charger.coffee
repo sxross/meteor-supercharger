@@ -25,7 +25,7 @@ Template.charger.helpers
     value
 
   lat_lon_query: ->
-    return "https://maps.google.com/?q=#{urlEncode("#{@gps.latitude},#{@gps.longitude}")}"
+    return "https://maps.google.com/?q=#{urlEncode("#{@gps.latitude},#{@gps.longitude}")}" if @gps?
 
   tesla_count: ->
     if @teslaCount? then @teslaCount else 0

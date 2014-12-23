@@ -4,7 +4,7 @@ template(name="chargers")
   else
     .row
       .col-xs-12
-        |There are #{charger_count} open superchargers.
+        |{{pluralize charger_count 'charger'}} found in your search area.
     each list
       .row
         +charger

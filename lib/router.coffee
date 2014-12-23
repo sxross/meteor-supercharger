@@ -5,7 +5,7 @@ Router.configure
 
 Router.route "/",
   waitOn: ->
-    Meteor.subscribe "open_chargers"
+    Meteor.subscribe "open_chargers", Session.get(COUNTRY_PREFS), Session.get(STATE_PREFS)
     Meteor.subscribe "updates"
   name: "chargers"
   # onBeforeAction: (pause) ->
@@ -34,6 +34,11 @@ Router.route "/about",
 
 Router.route "/changelog",
   name: "changelog"
+
+Router.route "/settings",
+  name: "settings"
+  waitOn: ->
+    Meteor.subscribe "geography", null, null
 
 # Router.route "login",
 #   name: "login"
