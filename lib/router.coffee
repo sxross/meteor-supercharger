@@ -5,9 +5,13 @@ Router.configure
 
 Router.route "/",
   waitOn: ->
-    Meteor.subscribe "open_chargers", Session.get(COUNTRY_PREFS), Session.get(STATE_PREFS)
+    if Meteor.isClient
+      country_prefs = Session.get(COUNTRY_PREFS)
+      state_prefs   = Session.get(STATE_PREFS)
+    Meteor.subscribe "open_chargers", country_prefs, state_prefs
     Meteor.subscribe "updates"
   name: "chargers"
+  fastRender: true
   # onBeforeAction: (pause) ->
   #   console.log "before action route name is #{@route.getName()}"
   #   routeName = @route.getName()
@@ -37,6 +41,7 @@ Router.route "/changelog",
 
 Router.route "/settings",
   name: "settings"
+  fastRender: true
   waitOn: ->
     Meteor.subscribe "geography", null, null
 

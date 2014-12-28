@@ -16,8 +16,10 @@ template(name="states")
   ul.list-unstyled#state-list(style="display:none;")
     each list
       li
-        input.state(type="checkbox" value="{{state}}")
-        |{{state}}
+        +state_setting
+        //
+          input.state(type="checkbox" value="{{state}}")
+          |{{state}}
     
 template(name="countries")
   #country-header 

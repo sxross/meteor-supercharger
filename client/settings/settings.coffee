@@ -45,22 +45,25 @@ Template.states.helpers
         sort_string: 'state'
       )
 
-Template.states.rendered = ->
-  _.each Session.get(STATE_PREFS), (e) ->
-    $("li > input[value=#{e}]").attr('checked', true)
-
 Template.states.events
-  'click .state': (e) ->
-    $('#state-button').blur()
-    state_prefs = []
-    _.each $('.state:checked'), (iteratee) =>
-      state_prefs.push($(iteratee).val())
-
-    state_prefs = _.map $('.state:checked'), (item) -> $(item).val()
-    Session.set(STATE_PREFS, state_prefs)
-
   'click #state-button': (e) ->
     $('#state-list').toggle(400)
+
+Template.state_setting.events
+  'click .state': (e) ->
+    prefs = Session.get(STATE_PREFS) || []
+    value = $(e.target).val()
+    if _.contains(prefs, value)
+      prefs = _.reject prefs, (item) ->
+        item is value
+    else
+      prefs.push $(e.target).val()
+    Session.set(STATE_PREFS, _.uniq(prefs))
+
+Template.state_setting.helpers
+  is_checked: ->
+    settings = Session.get(STATE_PREFS)
+    _.contains(settings, @state) ? 'checked' : false
 
 Template.countries.helpers
   list: ->
