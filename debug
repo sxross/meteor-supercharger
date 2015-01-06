@@ -1,0 +1,5 @@
+!#/bin/bash
+
+node-inspector &
+export NODE_OPTIONS='--debug-brk'
+meteor

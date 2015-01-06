@@ -7,7 +7,6 @@ meteor-platform
 coffeescript
 http
 particle4dev:sass
-percolatestudio:synced-cron
 iron:router
 sacha:spin
 accounts-password
@@ -15,9 +14,14 @@ natestrauser:font-awesome
 mrt:momentjs
 mquandalle:jade
 joshowens:inflectionizer
-mizzao:bootstrap-3
 chuangbo:marked
 houston:admin
 steeve:single-page-login
 email
 meteorhacks:fast-render
+percolate:synced-cron
+twbs:bootstrap
+mike:mocha
+practicalmeteor:chai
+practicalmeteor:sinon
+meteorhacks:kadira

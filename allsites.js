@@ -17,7 +17,7 @@ all_sites = [
     "elevationMeters": 338,
     "url": "http:\/\/www.teslamotors.com\/supercharger\/buckeye",
     "urlDiscuss": "http:\/\/www.teslamotorsclub.com\/showthread.php\/25317-Supercharger-Buckeye-AZ",
-    "stallCount": 8,
+    "stallCount": 10,
     "counted": true,
     "dateOpened": "2014-03-20"
   },
@@ -240,5 +240,32 @@ all_sites = [
     "stallCount": 8,
     "counted": true,
     "dateOpened": "2012-07-03"
+  },
+  {
+    "id":112,
+    "locationId":null,
+    "name":"El Centro, CA",
+    "status":"OPEN",
+    "address":{
+      "street":"3451 S Dogwood Rd",
+      "city":"El Centro",
+      "state":"CA",
+      "zip":"92243",
+      "countryId":100,
+      "country":"USA",
+      "region":"North America"
+    },
+    "gps":
+    {
+      "latitude":32.7637233,
+      "longitude":-115.5315171
+    },
+    "urlDiscuss":"http://www.teslamotorsclub.com/showthread.php/26691-Supercharger-El-Centro-CA",
+    "stallCount":8,
+    "hours":null,
+    "counted":true,
+    "elevationMeters":-8,
+    "dateOpened":"2014-12-28",
+    "dateModified":"2014-12-28 01:47:12"
   }
 ];

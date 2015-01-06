@@ -1,9 +1,8 @@
 @inspect = (o) ->
-  r = []
-  r.push("#{key} = #{value}") for own key, value of o
-  r.join("\n")
+  JSON.stringify o
 
 @is_production = ->
+  return true
   return !_.isEmpty process.env.ROOT_URL.match(/meteor\.com/i)
 
 @send_mail = (mail_body) ->
@@ -18,60 +17,67 @@
   insert_count: 0
   update_count: 0
   error_count:  0
-
-@set_defaults = (site) ->
-  site = _.defaults(site, {teslaCount: 0, iceCount: 0, lineCount: 0, offlineCount: 0})
-  site.dateOpened = new Date(site.dateOpened)
-  site.dateModified = new Date(site.dateModified)
-  site
-
-@copy_new_props = (existing, site) ->
-  _.extend(existing, site)
-
-@trim_id = (site) ->
-  _.omit(site, "_id")
+  site_count:   0
 
 Meteor.methods
-  insert_or_update: (site, origin = 'remote') ->
-    r = Chargers.find({id: site.id})
-    if r.count() is 0
-      Chargers.insert set_defaults(site), (error, result) ->
-        if error
-          run_stats.error_count += 1
-        else
-          run_stats.insert_count += 1
-    else
-      existing = r.fetch()[0]
+  insert_or_update: (site) ->
 
-      new_doc = copy_new_props existing, set_defaults(site) # add new properties to existing site
+    doc = new ChargerServerDoc(Chargers.findOne({id:site.id}), site)
 
-      count = Chargers.update existing._id, {$set: trim_id new_doc},  (error, result) ->
-        if error
-          run_stats.error_count += 1
-        else
-          run_stats.update_count += 1
+    doc.set_defaults().merge().needs_update
+      update: (id, doc) ->
+        Chargers.update id, $set: doc, (error, result) ->
+          unless _.isEmpty(error)
+            console.log "updating error is #{inspect(error)} result is #{inspect(result)}"
+            run_stats.error_count += 1
+            "error"
+          else
+            run_stats.update_count += 1
+            "update"
 
-    return run_stats
+        return
+
+      insert: (doc) ->
+        Chargers.insert doc, (error, result) ->
+          unless _.isEmpty(error)
+            console.log "insert error is #{inspect(error)} result is #{inspect(result)}"
+            run_stats.error_count += 1
+            "error"
+          else
+            run_stats.insert_count += 1
+            "insert"
+
+        return
+
+    return null
 
   updateChargers: ->
     mail_ary = []
+    run_stats.error_count = run_stats.insert_count = run_stats.update_count = run_stats.site_count = 0
     location = 'remote'
 
     unless is_production()
       location = 'local'
       for site in all_sites
-        result = Meteor.call('insert_or_update', site, location)
-        mail_ary.push "#{location} : #{site.name} : #{JSON.stringify result}"
-
-      send_mail mail_ary.join("\n")
+        run_stats.site_count += 1
+        result = Meteor.call('insert_or_update', site)
+        mail_ary.push "#{location} : #{site.name} : #{result}" unless _.isNull(result)
     else
       HTTP.get "http://supercharge.info/service/supercharge/allSites", {}, (error, result) ->
         unless result.statusCode == 200
-          console.log "error #{error}"
-          return
+          mail_ary.push "HTTP connection error #{result.statusCode} : #{JSON.stringify error}"
         else
           for site in JSON.parse(result.content)
+            run_stats.site_count += 1
             result = Meteor.call('insert_or_update', site, location)
-            mail_ary.push "#{location} : #{site.name} : #{inspect result}"
+            mail_ary.push "#{location} : #{site.name} : #{result}" unless _.isNull(result)
 
-          send_mail mail_ary.join("\n")
+    mail_ary.push """
+
+    sites:        #{run_stats.site_count}
+
+    errors:       #{run_stats.error_count}
+    inserts:      #{run_stats.insert_count}
+    updates:      #{run_stats.update_count}
+    """
+    send_mail mail_ary.join("\n")

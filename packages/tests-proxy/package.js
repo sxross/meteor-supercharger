@@ -7,9 +7,9 @@ Package.describe({
 
 Package.on_use(function (api) {
 	api.use("coffeescript", ["client", "server"]);
-	api.add_files("tests/jasmine/server/integration/sample/spec/chargers_spec.coffee",["server"]);
-	api.add_files("tests/jasmine/server/integration/sample/spec/PlayerSpec.js",["server"]);
-	api.add_files("tests/jasmine/server/integration/sample/spec/SpecMatchers.js",["server"]);
-	api.add_files("tests/jasmine/server/integration/sample/src/Player.js",["server"]);
-	api.add_files("tests/jasmine/server/integration/sample/src/Song.js",["server"]);
+	api.add_files("tests/mocha/client/increment_decrement_spec.coffee",["client"]);
+	api.add_files("tests/mocha/client/sampleClientTest.coffee",["client"]);
+	api.add_files("tests/mocha/server/charger_server_doc_spec.coffee",["server"]);
+	api.add_files("tests/mocha/server/charger_server_spec.coffee",["server"]);
+	api.add_files("tests/mocha/server/sampleServerTest.coffee",["server"]);
 });

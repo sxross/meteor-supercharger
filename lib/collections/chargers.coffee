@@ -2,6 +2,8 @@
 
 Chargers.allow
   update: -> true
+  insert: ->
+    !_.isEmpty MochaWeb
 
 Meteor.methods
   set_update_info: ->
