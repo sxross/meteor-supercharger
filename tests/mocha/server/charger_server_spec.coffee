@@ -2,7 +2,9 @@ MochaWeb?.testOnly ->
   expect = chai.expect
   describe "chargers on the server", ->
     beforeEach ->
+      console.log "removing all chargers"
       Chargers.remove({})
+      console.log "there are now #{Chargers.find().count()} left."
       @test_doc =
         "id": 601,
         "name": "Test Flagstaff, AZ",
@@ -17,10 +19,17 @@ MochaWeb?.testOnly ->
       Chargers.insert @test_doc
 
     afterEach ->
-      Chargers.remove({name: "Test Flagstaff, AZ"})
+      Chargers.remove({})
 
-    it "creates initial harness", ->
-      expect(Chargers.find().count()).not.to.equal(0)
-      expect(Chargers.find().count()).to.equal(1)
-      expect(Chargers.find({name: "Test Flagstaff, AZ"}).count()).to.equal(1)
+    describe "creates initial harness", ->
+      beforeEach ->
+        @actual_count = Chargers.find().count()
 
+      it "has one or more documents", ->
+        expect(@actual_count).not.to.equal(0)
+
+      it "really has one document", ->
+        expect(@actual_count).to.equal(1)
+
+      it "has a document for Flagstaff", ->
+        expect(Chargers.find({name: "Test Flagstaff, AZ"}).count()).to.equal(1)
