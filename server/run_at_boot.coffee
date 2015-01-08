@@ -6,7 +6,7 @@ Meteor.startup ->
     schedule: (parser) ->
 
       # parser is a later.parse object
-      parser.text "every 12 hours"
+      parser.text "at 12:05am every day"
 
     job: ->
       Meteor.call 'updateChargers'
@@ -15,10 +15,3 @@ Meteor.startup ->
 
   Meteor.publish "open-chargers", ->
     Chargers.find({}, {sort: {'address.country':1, 'address.state':1, name: 1}})
-
-  # REVIEW: Logged in to update
-  Chargers.allow({
-    update: -> true
-  })
-
-

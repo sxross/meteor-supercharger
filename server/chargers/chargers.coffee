@@ -21,6 +21,7 @@
 
 Meteor.methods
   insert_or_update: (site) ->
+    return null if MochaWeb?
 
     doc = new ChargerServerDoc(Chargers.findOne({id:site.id}), site)
 
